@@ -1,0 +1,60 @@
+DMC 1000 - Reading Journal 1
+The pieces you are reading this week are 3 short articles by Harun Farocki (https://drive.google.com/open?id=1ekiT8V1zB4wfQ2pdytR5Hi5ZXlaM5KX9), Benjamin Peters (http://culturedigitally.org/2014/05/digital-draftdigitalkeywords/), and Jonathan Sterne (http://culturedigitally.org/2014/05/analog-draftdigitalkeywords/).
+
+Please read them, take notes for yourself, and then put in *thoughtful* responses into the form below. You will likely want to enter the text in another program (Microsoft Word, Notepad, TextEdit, etc.) so that it can be saved, and then Copy-Pasted here. There are no *absolute right answers here* -- only the ones you can argue, based on evidence that you've found in the texts provided or elsewhere.
+
+Due to the delay on getting Canvas up, this first assignment is DUE SEPTEMBER 11, 2019.
+(Ordinarily, they are due the Sunday night before class)
+* Required
+
+
+What is your name? *
+
+Hayden Schiff
+
+
+What is your preferred name? (If different from the above)
+
+
+
+
+How difficult to understand were the readings this week?
+Easy
+1
+2
+3
+4
+5
+Difficult
+
+5
+
+
+According to Harun Farocki's text "The Industrialization of Thought," how much authorship can we claim to have over our digital creations? *
+
+Farocki's essay would suggest that we do not have authorship over our digital creations, at least not to the extent we used to. A video that would have required a Herculean creative effort to produce in 1960 might now be made without even much thought by someone pulling out their smartphone. However, I would not say that modern digital video is entirely without artistic merit. A simple video of someone speaking a bit of dialogue might not require any skill any more, but to make something great and visually interesting still requires talent and artistry.
+
+
+Farocki wrote this short essay in 1993. What has changed and/or remained the same from that era? What trends have persisted? What trends have faded? (Give 1-2 examples.) *
+
+The trend of cameras and other technologies becoming more commonplace and accessible has definitely continued; I imagine even Farocki in 1993 would have been surprised to learn that virtually everyone in 2019 carries a cinema-quality camera in their pocket everywhere they go. However, Farocki seems to have overestimated the extent to which artistry would be automated. Instead of our cameras evolving to automatically capture a scene from every possible angle, our society has evolved to view artistry as a luxury. A high-end production still requires skilled humans to achieve a professional look, but there is also an ever-growing class of YouTube videos and other low-end productions which people happily consume despite the lesser production value.
+
+
+What is the relationship, according to Peters, between mathematics and the digital? *
+
+A digital device can solve any computable problem given enough enough time and computing power. As computing power increases, we are finding that more and more types of signals are becoming "countable". Anything can be reduced to a digital signal with some amount of data loss; as our technology becomes capable of handling larger and larger amounts of data, we are able to digitize more complex signals with less data loss.
+
+
+According to Peters, what is then the relationship between the digital and the non-digital? *
+
+As digital representations become more and more robust, they begin to come closer and closer to outright duplicating the non-digital thing which they emulate. Digital media are indices, he says, and just like analog indices (such as a pointer finger or the index of a book), they point to a thing in reality, but they are not that thing in reality. Digital media are created by humans and as such, will never be perfect and converge with the non-digital; they will always reflect our biases to some extent.
+
+
+According to Sterne, how do the digital and analog relate to each other? *
+
+Sterne argues that the analog and the digital are really not so different. Everything we create is an approximation of the true workings of the world, and there is nothing inherently more accurate about analog media than digital media.
+
+
+If you had to make a media product -- short film, TV pilot, game, web comic -- based on these readings, what would it be about? Give me a creative pitch for your idea. *
+
+My pitch is for a sci-fi thriller film wherein a new technology is released and anyone can now buy a robot clone of themselves to function as their assistant, taking on tasks that the owners would prefer not to. As clones, they know exactly how the owner likes things to be handled and so they can function with little guidance. As the plot progresses, the clones would become more and more like their owners. Eventually, the "clone" part of the robots' brains would win over the "assistant" part, and they would begin abandoning their duties to take the human owner's place even in tasks which the human wanted to do. Towards the very end, as the horror aspect of the film creeps in ever so slowly and subtly, we start to realize that many humans have started acting as assistant's to their clones, perhaps even believing themselves to be the clones. At the very end, I'd like to have some shot of the protagonist in a large crowd of supposed humans realizing that a large faction of the crowd is clones (perhaps there'd have to be some sort of very rare/subtle tell for recognizing a clone that we suddenly see occurring in a large portion of the crowd).

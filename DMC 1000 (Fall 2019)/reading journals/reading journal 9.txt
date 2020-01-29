@@ -1,0 +1,48 @@
+DMC 1000 - Reading Journal 9
+This one should be fairly quick -- I am assuming you will be spending most of your time related to this class on your Group Projects, which are due in a few weeks.
+
+Materials for this week include:
+• Heir:
+https://medium.com/@manveerheir/a-diverse-inclusive-entertainment-studio-brass-lion-entertainment-e0d6b80cf1c0
+• Kong:
+https://blog.frame.io/2018/03/05/oscar-2018-workflows/
+• Bethke (pages 15-36 ONLY): https://doc.lagout.org/Others/Game%20Development/Designing/Game%20Development%20and%20Production.pdf
+
+Respond as best you can in the next several days.
+
+The assignment is DUE NOVEMBER 18, 2019.
+* Required
+
+What is your full name (first and last; preferred name OK)? *
+
+Hayden Schiff 
+
+How difficult to understand were the materials this week? *
+Easy
+1
+2
+3
+4
+5
+Difficult
+
+1
+
+Media Project: How far are you in the production process? What will you do in this coming week? *
+
+Since I'm submitting this very late, obviously our project is already done; however, I do still intend to do a little bit of polish work on our game. There's a few bugs I'd like to go back and iron out, such as the one you saw during our in-class demo where you could make weird things happen by jumping on the end-of-level buttons multiple times (I had originally tested for that, but the 'level complete' sound effect was a last minute addition and I didn't thoroughly re-test after adding it). There's some other misc code cleanup I plan to do and half-finished features I'd like to finish (I actually did all the backend work for an options menu with audio controls and such, but I didn't have time to implement the menu screen for it). I also want to add all our unused assets to the public open-source repository and to write up a post-mortem blog post -- there isn't that much good example code for the game engine we used, so I figured our project could be a good educational resource for others.
+
+
+Heir: What sort of stories does the studio want to tell? On what principles is it founded? *
+
+Brass Lion Entertainment is focused on diversity; Heir says they want to create universes that focus on black and brown characters. Their goal is to diversify the industry and create media that all players can enjoy, regardless of their background.
+
+Kong: From these different production processes of 2018 Oscar films, what lessons can you take forward into your own production process? *
+
+Because we made a game rather than a film, this article has limited applicability to our production, but there are still some relevant lessons. Kong mentioned that the smaller independent films such as Three Billboards and Lady Bird had a short production process and a long post-production process, which works well on a small budget. If I could do it over again, I wish we could have sort of followed this model by building out basic playable levels very early, and then taking the rest of the time to refine them into a robust game. However, as Charles told you, we had two group members who failed to deliver on their parts, and unfortunately, they had been respectively assigned to work on script writing and level design. Their roles had to be taken over by others towards the end of development, which meant that I had to program a lot of the game features without getting feedback on how they played (as no one was designing levels with them).
+
+Bethke: Even though this was published in 2003, there are still many relevant lessons to modern game developers. What should a game developer primarily focus on, and what is one thing to avoid in a project? *
+
+Although some aspects of this book are outdated (Duke Nukem Forever shockingly did release, for one), for the most part this chapter is very much on par with a modern development cycle. From the project outset, a developer needs to have a strong sense of the game's scope, which must be realistic for their budget and abilities. The scope also should be basically set in stone early in the process to avoid feature creep, or else the development might run long or the game might ship in a poor state.
+
+

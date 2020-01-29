@@ -1,0 +1,56 @@
+DMC 1000 - Reading Journal 7
+Materials for this week include:
+• Ismail: https://variety.com/2019/gaming/opinion/theres-no-such-thing-as-a-hard-game-or-an-easy-one-1203176853/
+• Hyper-Reality: https://www.youtube.com/watch?v=YJg02ivYzSs
+• Liao: https://drive.google.com/open?id=1p_cPBA3tWOAd551zqnkYWDxdDRvZpo5u
+• Nord: http://archive.pov.org/blog/news/2014/04/5-things-documentary-filmmakers-can-learn-from-game-designers/
+• Fullerton (CHAPTER ONE ONLY): http://host.conseiljedi.com/~kira/Game%20Design%20Workshop-A%20playcentric%20approach%20to%20creating%20innovative%20games-2nd%20Edition.pdf
+
+Read and view these pieces, take notes, and write down your responses.
+Get through what you can before Monday.
+
+Since this was posted late, assignment is DUE OCTOBER 29, 2019.
+* Required
+
+
+What is your full name (first and last; preferred name OK)? *
+
+Hayden Schiff
+
+
+How difficult to understand were the readings this week? *
+Easy
+1
+2
+3
+4
+5
+Difficult
+
+1
+
+
+Ismail: What does it mean to create game difficulty? How do you best modulate your players' and/or users' successes and failures? *
+
+Game difficulty is not an objective measurement, but relative one –- it's the distance between the game's challenge and the player. It's not just important how skillful the player, but also what they want out of the game -- a player who is just interested in the narrative will have a very different experience than the player who wants to dominate enemies. Games' default difficulty and intended playing style are merely a suggestion, but many a good game will try to accommodate players of all different types. If the player is getting stuck or struggling, the game can tip the scales in their favor, and if the player is powering through with extreme ease, the game can throw more obstacles at them.
+
+
+Hyper-Reality: What are some societal effects that would be created by the technologies on display in the video? Name one specific example. *
+
+The structure of not only society but reality as a whole is dictated by humans in that video to a far greater extent than in the real world. As a result, those who are tech savvy and adept at navigating systems created by imperfect humans would be greatly advantaged. The attacker in the video has figured out flaws in the system that let them impersonate another person as well as become blacked out to others (as we saw when they ran up to steal a blood sample at the end) has built themselves a huge unfair advantage that could not happen to nearly the same degree as in our current society.
+
+
+Liao: What is the difference between VR and AR? What VR or AR project do you envision might be interesting to create? *
+
+Virtual reality (VR) refers to technologies which entirely immerse the user in an experience that is completed disconnected from the physical world around them. Augmented reality (AR), on the other hand, refers to technologies which mix immersive virtual elements into the real world. I am most excited for whatever AR project leads society to think about AR as something to seriously consider using on a day-to-day basis, instead of just being a cheap gimmick. I'm imagining an AR device that could do everything a smartphone can and with the same ease of use, but its display in a contact lens or a pair of glasses instead of a device in your pocket. I think a product like that would be fascinating to build and could be the device that tips AR into mainstream popularity.
+
+
+Nord: What is one lesson from game designers that you take away for your own media creation?
+
+Knowing one's audience is important in all forms of media, not just for game designers. A video game must undergo playtesting, but I think other forms of media as well require some form of testing as well. It is all too easy for an idea that is obvious in the mind of a creator to be completely lost on the viewer, listener, or reader.
+
+
+Fullerton: What does the author see as some basic principles of game design? Name one game that follows these principles well, and describe how.
+
+In this book chapter, some of the principles of good game design mentioned include integrating story with gameplay and designing unique play mechanics which push the bounds of what has been done before. One of my favorite games which I think follows these principles is Portal. Portal mixes the story with the puzzle-platforming well by having the game be about a test subject forced to solve puzzles, and GLaDoS' obnoxious commentary fits seamlessly over top of the experience. In addition, Portal's titular gameplay element, the portal gun, made for a very interesting and unique game element, forcing players to twist their brain around wonky spatial problems and learn how to control momentum.
+

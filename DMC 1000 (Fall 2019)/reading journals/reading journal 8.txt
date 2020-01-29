@@ -1,0 +1,42 @@
+DMC 1000 - Reading Journal 8
+Materials for this week include:
+• Schafer - GrimPuzzleDoc [See Module "Week 10" on Canvas]
+• Grim Fandango: http://www.grimremastered.com
+• Jentery: https://jentery.github.io/ts200v2/notes.html#theories-and-concepts
+
+If you don't want spoilers on Grim Fandango, play 1-2 hours of the game, and then glance through the document.
+Read and play these pieces, take notes, and write down your responses.
+
+The assignment is DUE NOVEMBER 1, 2019.
+* Required
+
+What is your full name (first and last; preferred name OK)? *
+
+Hayden Schiff
+
+
+How difficult to understand were the materials this week? *
+Easy
+1
+2
+3
+4
+5
+Difficult
+
+2
+
+
+Jentery: Look over the Practices and Prototyping Techniques in particular. Which will be most useful to you in shaping your media project for the end of the semester, and how? Give at least one example. *
+
+One practice that I took particularly serious was the practice of getting permission and giving credit when using material from others. My background before this class is in programming, and I'm a big believer in the free and open source software movement. Thus, for the handful of assets we used from other sources, I made sure to seek out freely-licensed materials whose author intended for them to be reused by others. I made sure to include their full license information in the game's open source repository on GitHub ( https://github.com/oxguy3/winstons-world/blob/master/LICENSE ), and I also included their names on the game's credit screen. I made sure to do this even for assets whose creator said that crediting them was optional as I feel it is important to do in all scenarios.
+
+
+Grim Fandango: How far did you get? What worked well in communicating how to get farther in the game? What didn't work so well? *
+
+Years ago I played this game on my own, and I became stuck and confused about how to proceed very early on, before the game had really even gotten going. I stopped playing, intending to come back to it but I ultimately never did. I found that the game left you with a little too little direction, and just expected you to click on things randomly until you found the hidden spot you were supposed to click. This style of game can work quite well in some scenarios – I am a big fan of the Sam & Max franchise, for example – but I thought the balance was a bit out of whack in Grim Fandango.
+
+
+Schafer: Look through the Grim Fandango Puzzle Doc -- the outline for the whole game. What seem to be the main concepts driving the creation of this game? How does the document communicate those concepts? *
+
+This document suggests that the puzzles in this game were all about trying to get the player to think outside the box and try the unintuitive. Often, this will lead to the player banging their head against the wall, but the purpose is ultimately to find a satisfying "a-ha!" moment. The document's use of flow charts for describing both map layouts and puzzle ordering is very helpful and makes the game basis really easy to understand.

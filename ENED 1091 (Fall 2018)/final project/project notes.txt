@@ -1,0 +1,16 @@
+Tractor, 0.45, 2300
+Sedan, 0.60, 1300
+Box Truck, 0.75, 8600
+Semi-Trailer, 0.7, 14500
+
+
+Tractor
+http://www.rsa.ie/Documents/Your%20Vehicle/Ag_vehicles/Braking_FAQs.pdf
+http://www.tractordata.com/farm-tractors/005/7/9/5791-john-deere-5055e.html
+
+Sedan
+https://mattersoftesting.blog.gov.uk/changes-made-to-brake-performance-test/
+https://www.edmunds.com/toyota/corolla/2014/features-specs/
+
+Trucks
+http://road-transport-technology.org/Proceedings/2%20-%20ISHVWD/Vol%201/ESTIMATED%20BRAKING%20EFFICIENCIES%20OF%20DIFFERENT%20ONTARIO%20TRUCK%20CONFIGURATIONS%20-%20Hutchinson%20.pdf

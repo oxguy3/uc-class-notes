@@ -1,0 +1,53 @@
+# 2019-09-16: spectacle part 2
+
+## movie clips
+
+* Enter the Void (2009)
+  * jesus, epilepsy warning for these intro credits?
+  * very unusual entirely first-person film
+    * even shows blinking
+* cyriak
+  * malfunction (2014)
+    * ah, classic
+    * we're talking about "spectacle", sayeth prof
+  * Flying Lotus - Putty Boy Strut (2012)
+    * more commercial side of his work
+    * made by a team of two (plus music from Flying Lotus)
+* Spider-man: Into the Spiderverse (2018)
+  * very cool animation style
+
+## concepts
+
+* triangle chart
+  * reality, meaning, abstract picture plane in the corners
+  * put media somewhere on the chart
+
+## history of media i guess
+
+* ...
+* tensions between individual (VR, mobile phone games) and collective experiences (social media, eSports)
+
+## spectacle
+
+* spectacle, n. — a visually striking display
+* examples/history
+  * executions/religious
+    * Romans feeding Christians to lions
+    * until very recently, spectacles were often religious or executions
+  * sports
+    * colliseums to modern sports
+  * fireworks
+  * early cinema
+    * arrival of a train
+  * ...
+* what makes "spectacle" to you?
+  * what makes media "immersive" to you?
+
+## Denise Burge and Kim Burleigh
+
+* Kim Burleigh
+  * background in painting, now does 3d animation with maya
+  * sandwich stacking animations
+  * watched a looooottt of student projects and stuff
+* Denise Burge
+  * fine art prof since 1992, animation prof since 2011
