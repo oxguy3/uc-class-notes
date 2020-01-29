@@ -22,7 +22,7 @@ JAPN 1001 | Basic Japanese I | Junko Markovic | Fall 2018
 JAPN 1002 | Basic Japanese II | Junko Markovic | Spr 2019
 JOUR 1030 | Principles of American Journalism | Alfred Cotton | Spr 2019
 JOUR 2020 | Media Law and Ethics | Leonard Penix | Spr 2019
-JOUR 2030C | Reporting and Writing | Leonard Penix | Fall 2019
+JOUR 2010C | Reporting and Writing | Leonard Penix | Fall 2019
 JOUR 2035 | Visual Reporting and Storytelling | Sean Hughes | Fall 2019
 JOUR 3000C | Journalism Research | Brian Calfano | Spr 2020
 JOUR 3005 | Feature Writing | Jenny Wohlfarth | Spr 2020
