@@ -10,25 +10,25 @@ However, I will sometimes embed bits of LaTeX within my Markdown files (primaril
 
 | No. | Name | Instructor | Term |
 | --- | --- | --- | --- |
-CS 4092 | Database Design and Development | Sayantan Dey | Sum 2018
+CS 4092 | Database Design and Development | Sayantan Dey | Summer 2018
 DMC 1000 | Foundations of Digital Media | Evan Torner | Fall 2019
 EMED 1015 | Integrated Media Production I | Colin MacGeorge | Fall 2019
-EMED 1050 | The Evolution of TV Comedy | Nick Belperio | Spr 2019
-ENED 1090 | Engineering Models I | Gregory Bucks | Sum 2018
+EMED 1050 | The Evolution of TV Comedy | Nick Belperio | Spring 2019
+ENED 1090 | Engineering Models I | Gregory Bucks | Summer 2018
 ENED 1091 | Engineering Models II | Norman Novotney | Fall 2018
 HIST 3019 | History of American Invention | Jason Krupar | Fall 2019
-IT 2030C | Information Security and Awareness | Matthew Williams | Sum 2018
+IT 2030C | Information Security and Awareness | Matthew Williams | Summer 2018
 JAPN 1001 | Basic Japanese I | Junko Markovic | Fall 2018
-JAPN 1002 | Basic Japanese II | Junko Markovic | Spr 2019
-JOUR 1030 | Principles of American Journalism | Alfred Cotton | Spr 2019
-JOUR 2020 | Media Law and Ethics | Leonard Penix | Spr 2019
+JAPN 1002 | Basic Japanese II | Junko Markovic | Spring 2019
+JOUR 1030 | Principles of American Journalism | Alfred Cotton | Spring 2019
+JOUR 2020 | Media Law and Ethics | Leonard Penix | Spring 2019
 JOUR 2010C | Reporting and Writing | Leonard Penix | Fall 2019
 JOUR 2035 | Visual Reporting and Storytelling | Sean Hughes | Fall 2019
-JOUR 2040C | Editing | Leonard Penix | Spr 2020
-JOUR 3000C | Journalism Research | Brian Calfano | Spr 2020
-JOUR 3005 | Feature Writing | Jenny Wohlfarth | Spr 2020
+JOUR 2040C | Editing | Leonard Penix | Spring 2020
+JOUR 3000C | Journalism Research | Brian Calfano | Spring 2020
+JOUR 3005 | Feature Writing | Jenny Wohlfarth | Spring 2020
 PHYS 2001 | College Physics I | Alexandru Maries | Fall 2018
-PHYS 2001 | College Physics I | Lora Sheppard | Sum 2018
+PHYS 2001 | College Physics I | Lora Sheppard | Summer 2018
 
 ## Copyright
 The files in this repository consist primarily of my own work, but some of the files may include content from my professors or classmates. It would be too difficult and confusing to try to entirely remove/separate others' work, so I'm not going to put a free license on the repository.
