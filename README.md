@@ -24,6 +24,7 @@ JOUR 1030 | Principles of American Journalism | Alfred Cotton | Spr 2019
 JOUR 2020 | Media Law and Ethics | Leonard Penix | Spr 2019
 JOUR 2010C | Reporting and Writing | Leonard Penix | Fall 2019
 JOUR 2035 | Visual Reporting and Storytelling | Sean Hughes | Fall 2019
+JOUR 2040C | Editing | Leonard Penix | Spr 2020
 JOUR 3000C | Journalism Research | Brian Calfano | Spr 2020
 JOUR 3005 | Feature Writing | Jenny Wohlfarth | Spr 2020
 PHYS 2001 | College Physics I | Alexandru Maries | Fall 2018
