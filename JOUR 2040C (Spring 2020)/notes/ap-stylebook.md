@@ -1,5 +1,7 @@
 # AP Stylebook notes
 
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+
 ***2020-01-16***
 
 ## A
@@ -421,7 +423,7 @@
 * [demolish, destroy](https://apstylebook.com/ap_stylebook/demolish-destroy)
   * **completely** do away with
     * you can't partially demolish/destroy something
-    * *totally* is redundant 
+    * *totally* is redundant
 * [department](https://apstylebook.com/ap_stylebook/department)
   * capitalize in title, else lowercase
 * [depression](https://apstylebook.com/ap_stylebook/depression)
