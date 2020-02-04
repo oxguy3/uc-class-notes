@@ -796,3 +796,213 @@
   * Brown, Columbia, Cornell, Dartmouth, Harvard, Princeton, Penn, Yale
 
 ---
+
+***2020-02-04***
+
+## J
+
+* [Jacuzzi](https://apstylebook.com/ap_stylebook/jacuzzi)
+  * trademark; generic is *whirlpool bath/spa*
+* [jail](https://apstylebook.com/ap_stylebook/jail)
+  * jail != prison
+  * jail = holding until convicted and where you serve misdemeanors
+  * prison is way worse than jail
+* [J.C. Penney Co.](https://apstylebook.com/ap_stylebook/j-c-penney-co)
+  * spelling
+* [jeep, Jeep](https://apstylebook.com/ap_stylebook/jeep-jeep)
+  * lowercase military vehicle, capitalize the civilian brand
+* [Jesus](https://apstylebook.com/ap_stylebook/jesus)
+  * capitalize name, don't capitalize pronouns *he*
+* [jihad](https://apstylebook.com/ap_stylebook/jihad)
+  * Arabic noun referring to Islamic concept of struggle to do good
+  * can refer to holy war, but not necessarily
+* [JPEG, JPG](https://apstylebook.com/ap_stylebook/jpeg-jpg)
+  * acceptable in all refs
+* [judge](https://apstylebook.com/ap_stylebook/judge)
+  * capitalize before name as a title, lowercase otherwise
+  * if using court name in the title, avoid the word *Court* unless its necessary
+* [junior, senior](https://apstylebook.com/ap_stylebook/junior-senior)
+  * abbr in names, no comma before
+* [judicial branch](https://apstylebook.com/ap_stylebook/judicial-branch)
+  * lowercase
+* [junk bonds](https://apstylebook.com/ap_stylebook/junk-bonds)
+* [jury](https://apstylebook.com/ap_stylebook/jury)
+  * singular
+* [justice](https://apstylebook.com/ap_stylebook/justice)
+  * similar to judge
+* [juvenile delinquent](https://apstylebook.com/ap_stylebook/juvenile-delinquent)
+  * some states prohibit publishing names; follow local law
+
+## K
+
+* [Kansas City](https://apstylebook.com/ap_stylebook/kansas-city)
+  * distinguish with *Kan.* and *Mo.* in datelines
+* [Kentucky](https://apstylebook.com/ap_stylebook/kentucky)
+  * legally "Commonwealth" not "State"
+  * *Ky.* in datelines
+* [KGB](https://apstylebook.com/ap_stylebook/kgb)
+  * acceptable on first ref, but you should mention what it is
+* [king, queen](https://apstylebook.com/ap_stylebook/king-queen)
+  * capitalize only before name of royalty
+* [Kmart](https://apstylebook.com/ap_stylebook/kmart)
+  * no hyphen, no space, lowercase *m*
+* [Ku Klux Klan](https://apstylebook.com/ap_stylebook/ku-klux-klan)
+  * *the klan* or *the KKK* on second ref
+  * KKK has now splintered into many smaller groups, some of which use the KKK name
+* [Kuwait City](https://apstylebook.com/ap_stylebook/kuwait-city)
+  * stand alone in datelines
+* [Labor Day](https://apstylebook.com/ap_stylebook/labor-day)
+  * first Monday in Sept
+* [lady](https://apstylebook.com/ap_stylebook/lady)
+  * don't use as synonym for woman
+  * may be used as a title for nobility
+* [lake](https://apstylebook.com/ap_stylebook/lake)
+  * capitalize in title
+* [last](https://apstylebook.com/ap_stylebook/last)
+  * avoid use as synonym of *latest* if it might imply finality
+* [Latino, Latina](https://apstylebook.com/ap_stylebook/latino-latina)
+  * generally, *Hispanic* preferred, but personal pref trumps
+* [lawsuit](https://apstylebook.com/ap_stylebook/lawsuit)
+  * *civil lawsuit* is redundant
+* [lectures](https://apstylebook.com/ap_stylebook/lectures)
+  * capitalize and use quote marks for their titles
+* [layoff (n.) lay off (v.)](https://apstylebook.com/ap_stylebook/layoff-n-lay-off-v)
+* [legislative titles](https://apstylebook.com/ap_stylebook/legislative-titles)
+  * *Rep.*, *Reps.*, *Sen.*, *Sens.* preferred on first ref
+  * spell out all other legislative titles
+* [legislature](https://apstylebook.com/ap_stylebook/legislature)
+  * capitalize when preceded by name of state or when specific to a state
+* [lieutenant governor](https://apstylebook.com/ap_stylebook/legislature)
+  * capitalize/abbr as *Lt. Gov.* or *Lt. Govs.* in formal titles
+* [liquidation](https://apstylebook.com/ap_stylebook/liquidation)
+  * converting assets into cash
+* [liquidity](https://apstylebook.com/ap_stylebook/liquidity)
+  * the ease with which assets can be liquidated
+* [Lloyd's of London](https://apstylebook.com/ap_stylebook/lloyd-s-of-london)
+  * famous for insuring Betty Grable's legs for $1M
+* [loan terminology](https://apstylebook.com/ap_stylebook/loan-terminology)
+  * will be covered later
+* [local](https://apstylebook.com/ap_stylebook/local)
+  * avoid irrelevant usage (it's obvious in many cases)
+* [long term, long-term](https://apstylebook.com/ap_stylebook/long-term-long-term)
+  * hyphenate as a modifier, don't as a noun
+* [-ly](https://apstylebook.com/ap_stylebook/ly)
+  * don't hyphenate
+* [Lyndon B. Johnson Space Center](https://apstylebook.com/ap_stylebook/lyndon-b-johnson-space-center)
+  * located in Houston
+  * *Johnson Space Center* in all refs
+
+## M
+
+* [Mace](https://apstylebook.com/ap_stylebook/mace)
+  * trademark for a brand of aerosolized tear gas
+* [magazine names](https://apstylebook.com/ap_stylebook/magazine-names)
+  * capitalize but no quotes
+  * lowercase *magazine* if not part of title
+  * capitalize *The* if part of title
+* [magistrate](https://apstylebook.com/ap_stylebook/magistrate)
+  * only capitalize if formal title
+* [mailman](https://apstylebook.com/ap_stylebook/mailman)
+  * *mail* or *letter carrier* is preferred
+* [majority, plurality](https://apstylebook.com/ap_stylebook/majority-plurality)
+  * *majority* = more than half
+  * *plurality* = more than next highest number
+  * singular
+* [margin](https://apstylebook.com/ap_stylebook/margin)
+  * used borrowed money to purchase securities
+* [Marines](https://apstylebook.com/ap_stylebook/marines)
+  * capitalize even without *U.S.* modifier
+* [Master of Arts, Master of Science, Master of Business Administration](https://apstylebook.com/ap_stylebook/master-of-arts-master-of-science-master-of-business-administration)
+  * capitalize these titles, but lowercase *master's degree*
+* [M.D.](https://apstylebook.com/ap_stylebook/m-d)
+  * generally *physician* or *surgeon* are preferred
+  * periods are exception to Webster's
+* [media](https://apstylebook.com/ap_stylebook/media)
+  * generally plural, but can be singular monolithic group
+* [Medicaid](https://apstylebook.com/ap_stylebook/medicaid)
+  * program for low-income people
+* [Medicare](https://apstylebook.com/ap_stylebook/medicare)
+  * program for people over 65 and the disabled
+* [Memorial Day](https://apstylebook.com/ap_stylebook/memorial-day)
+  * formerly May 30, now last Monday in May
+* [mentally disabled, intellectually disabled, developmentally disabled](https://apstylebook.com/ap_stylebook/mentally-disabled-intellectually-disabled-developmentally-disabled)
+  * these are the preferred terms
+  * only mention if pertinent to story
+* [messiah](https://apstylebook.com/ap_stylebook/messiah)
+  * capitalize only in religious uses
+* [Microsoft Corp.](https://apstylebook.com/ap_stylebook/microsoft-corp)
+* [Middle Ages](https://apstylebook.com/ap_stylebook/middle-ages)
+  * A.D. 476 to approximately A.D. 1450
+  * capitalized
+* [Middle East](https://apstylebook.com/ap_stylebook/middle-east)
+  * generally applies to southwest Asia west of Pakistan and Afghanistan (Iran, Iraq, Israel, Kuwait, Jordan, Lebanon, Oman, Bahrain, Qatar, Saudi Arabia, Syria, the eastern part of Turkey known also as Asia Minor, United Arab Emirates and Yemen), and northeastern Africa (Egypt and Sudan)
+  * preferred over *Near East*
+* [middle initials](https://apstylebook.com/ap_stylebook/middle-initials)
+  * only use if necessary to identify individual
+* [middle names](https://apstylebook.com/ap_stylebook/middle-names)
+  * use only if person is commonly known by that name
+* [midnight](https://apstylebook.com/ap_stylebook/midnight)
+  * no *12* in front
+* [miles per gallon](https://apstylebook.com/ap_stylebook/miles-per-gallon)
+  * *mpg* in all refs if used with figure
+* [miles per hour](https://apstylebook.com/ap_stylebook/miles-per-hour)
+  * *mph* in all refs
+* [military academies](https://apstylebook.com/ap_stylebook/military-academies)
+  * capitalize names
+* [military titles](https://apstylebook.com/ap_stylebook/military-titles)
+  * capitalize as formal title
+* [millions, billions, trillions](https://apstylebook.com/ap_stylebook/millions-billions-trillions)
+  * use figures with these words
+  * go to two decimal places at most
+  * only abbr millions, billions to *$5M*, *$1.7B* in headlines
+* [minister](https://apstylebook.com/ap_stylebook/minister)
+  * not a formal title in most religions
+  * not capitalized unless formal title before name
+* [months](https://apstylebook.com/ap_stylebook/months)
+  * abbreviate only when used with specific date
+  * (he showed DATES2.pdf)
+* [mount](https://apstylebook.com/ap_stylebook/mount)
+  * spell out even in place names
+  * (but abbr *Saint*)
+* [Muhammad](https://apstylebook.com/ap_stylebook/muhammad)
+  * use other spellings if preferred
+* Muslim
+  * person of Islamic faith
+
+## N
+
+* [names](https://apstylebook.com/ap_stylebook/names)
+  * use last name on second ref, generally
+  * children 15 and under: first name on second ref, unless serious story
+  * ages 16 and 17: generally surname unless light story
+* [National Weather Service](https://apstylebook.com/ap_stylebook/national-weather-service)
+  * full name on first ref, *weather service* on second ref
+* [Native American](https://apstylebook.com/ap_stylebook/native-american)
+  * generally follow personal preference
+* [naval, navel](https://apstylebook.com/ap_stylebook/naval-navel)
+  * *naval* = pertaining to navy
+  * *navel* = bellybutton
+* [Newspaper Guild-Communications Workers of America, The](https://apstylebook.com/ap_stylebook/newspaper-guild-communications-workers-of-america-the)
+  * union for newspaper employees
+  * *the Guild* on second ref
+* [newspaper names](https://apstylebook.com/ap_stylebook/newspaper-names)
+  * capitalize but no quotes
+* [nicknames](https://apstylebook.com/ap_stylebook/nicknames)
+  * use nicknames if necessary for clarity (e.g. *Jimmy Carter*)
+* [No.](https://apstylebook.com/ap_stylebook/no)
+  * use abbr with figure
+* [9/11](https://apstylebook.com/ap_stylebook/9-11)
+  * acceptable in all refs
+* [Nobel Prize, Nobel Prizes](https://apstylebook.com/ap_stylebook/nobel-prize-nobel-prizes)
+  * capitalized *Nobel Prize*
+  * don't capitalize the category (except *Nobel Peace Prize*)
+* [nolo contendere](https://apstylebook.com/ap_stylebook/nolo-contendere)
+  * no contest – not admitting guilt but not offering a defense
+  * defendent retains option of denying the charge later
+* [none](https://apstylebook.com/ap_stylebook/none)
+  * usually means *no single one*
+  * will come back to later
+* [numerals](https://apstylebook.com/ap_stylebook/numerals)
+  * short guide in Bb
+  * don't start sentence with a figure (except for a year)
+
