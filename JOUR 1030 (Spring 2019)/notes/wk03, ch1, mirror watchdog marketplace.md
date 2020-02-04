@@ -7,7 +7,7 @@
 * govt massacring Muslims
 * photos and reporting on brutal murder of ten Muslims
 * arrested two Reuters journalists
-  * sentenced to 7 years for a bullshit crime
+  * sentenced to 7 years for a BS crime
   * trial was obvious setup (e.g. witnesses told what to say, evidence destroyed, etc)
 * destructive to press freedom
 

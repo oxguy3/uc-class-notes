@@ -35,7 +35,7 @@
   * emotion
     * take into account human interests that touch our emotions
   * prominence
-    * more prominent indivudlas are given more attention
+    * more prominent individuals are given more attention
   * proximity
     * concentrate on news that is of local interest; the closer to home the better
 * **news gathering**
@@ -48,7 +48,7 @@
 
 ---
 
-***Thurs 14 Feb 2019***
+***Thu 14 Feb 2019***
 
 * building relationships with sources is critical
   * build trust, reuse sources for many stories

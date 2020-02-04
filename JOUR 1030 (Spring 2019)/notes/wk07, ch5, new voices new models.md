@@ -15,7 +15,6 @@
 * jobs disappearing in journalism/media
   * big list of media outlets and # of jobs cut (total: 2.1k)
   * 1/3 of jobs disappeared since 2017 (i think? might have that wrong)
-
 * watched local ABC video on Denver Post
 
 ## non-profit journalism

@@ -15,7 +15,7 @@
     * objectivity of method, not person
 * how this definition of journalism fits with Kovach and Rosenstiel's *Elements of Journalism*
 
-###*Elements of Journalism*
+### *Elements of Journalism*
 
 * "news is necessary for [list of reasons]. journalism is system to get news"
 * "purpose of journalism is to provide people w/ the info they need to be free and self-governing"

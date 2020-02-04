@@ -30,7 +30,7 @@ why did one newspaper, *The Post*, succeed in keeping the story alive while just
 
 ## Woodward and Bernstein
 
-* Sunday's story in The Post described the break-in and said one of the defendents was James McCord, a retired CIA agent
+* Sunday's story in The Post described the break-in and said one of the defendants was James McCord, a retired CIA agent
 * ...
 
 ## anonymous sources
@@ -43,7 +43,7 @@ why did one newspaper, *The Post*, succeed in keeping the story alive while just
 
 ## our textbook definition of journalism
 
-Journalism is a set of traparent, independent procedures aimed at gathering, verifying, and reporting truthful information of consequence to citizens in a democracy.
+Journalism is a set of transparent, independent procedures aimed at gathering, verifying, and reporting truthful information of consequence to citizens in a democracy.
 
 ---
 
@@ -54,29 +54,19 @@ Journalism is a set of traparent, independent procedures aimed at gathering, ver
 ### Newseum video
 
 * interview w/ Michael Freedman
-
   * experienced journalist; prof at George Washington University
-
 * anonymous source: not identified by name or affiliation
-
 * not ideal, last resort
-
 * AP guidelines
-
   * only used if:
     1. information, not speculation/opinion, and is vital
     2. not available from source except under anonymity
     3. source is reliable, in position to get accurate info
-
   * manager must also know and agree w/ reporters' assessment of source
-
 * how it happens
-
   * presumed on the record unless source negotiates ahead of time
   * if source objects, reporter should push for on the record as much as possible
-
 * types of sources
-
   * **on the record:** publishable w/ no caveats
   * **off the record:** can't be published
   * **background:** publishable under negotiated conditions

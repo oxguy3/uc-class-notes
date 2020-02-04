@@ -37,7 +37,7 @@ I.11 Freedom of speech; of the press; of libels (1851)
 ## privacy and reporting
 
 * privacy, although not explicitly recognized in constitution, is implicitly included
-* ... (he stayed on this slide for like 5 seconds)
+* ... (missed this slide)
 * four legal subcategories of privacy torts, or wrongs, are these:
   * intrusion upon physical seclusion (most common)
   * false light (false portrayal of someone, similar to libel or defamation)

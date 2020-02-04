@@ -5,7 +5,7 @@
 ## key concepts
 
 * journalistic power and responsibility
-* defintions of ethics and morality
+* definitions of ethics and morality
 * prima facie duties
 * intuitionism and other ethical theories
 * how journalists see their duties

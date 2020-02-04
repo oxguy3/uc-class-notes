@@ -25,7 +25,7 @@ Journalism is a set of transparent, independent procedures aimed at gathering, v
 * Less time-sensitive
 * They entertain, provide background, and give consumer tips
 * They often show up in specialty sections of the daily newspaper—entertainment, food, business, real estate, automotive, technology
-* And most come from public relations sources 
+* And most come from public relations sources
 
 ## news
 
@@ -53,7 +53,7 @@ To cover news, you must…
 ### Questions to ask yourself when writing an op-ed or column
 
 * Do I have a clear point to make? If so, what is it?
-* Who cares? (Writing with a particular audience in mind can inform how you execute your column. Who is it that you are trying to conince? Why are you targeting that specific reader?)
+* Who cares? (Writing with a particular audience in mind can inform how you execute your column. Who is it that you are trying to convince? Why are you targeting that specific reader?)
 * Is there substance to my argument?
 
 ### Distinguishing characteristics of an op-ed or column
@@ -113,7 +113,7 @@ The advent of new technologies bring with them new ways of seeing the world in w
 
 > * "There are fundamental differences between oral and literate cultures"
 >
-> * "That electronic communication is retriving patterns of thought and culture fostered by orality
+> * "That electronic communication is retrieving patterns of thought and culture fostered by orality
 >
 >   —Morrison, 2006
 
