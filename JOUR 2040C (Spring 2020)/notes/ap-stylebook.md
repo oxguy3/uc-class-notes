@@ -1,6 +1,6 @@
 # AP Stylebook notes
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
 
 ---
 
@@ -10,32 +10,32 @@
 
 * [abbreviations and acronyms](https://apstylebook.com/ap_stylebook/abbreviations-and-acronyms)
   * before name
-    * only "Dr." if they're a doc of medicine, generally
+    * only *Dr.* if they're a doc of medicine, generally
   * after name
-    * use Co./Corp./Inc./Ltd. regardless of company letterhead
-    * no commas suffix
+    * use *Co./Corp./Inc./Ltd.* regardless of company letterhead
+    * no commas before suffix
   * dates/numerals
-    * A.D., B.C.
-    * 7 p.m., 7:15 p.m.
-    * No. 1 draft pick, room No. 6
+    * *A.D.*, *B.C.*
+    * *7 p.m.*, *7:15 p.m.*
+    * *No. 1 draft pick*, *room No. 6*
   * numbered addresses
     * only abbreviate if it's an address with a number
-    * only abbreviate for Ave., Blvd., St.
-    * Interstate 71 (second ref: I-71)
+    * only abbreviate for *Ave.*, *Blvd.*, *St.*
+    * *Interstate 71* (second ref: *I-71*)
   * [state names](https://apstylebook.com/ap_stylebook/state-names)
     * all but eight often abbreviated
-    * U.S. acceptable as noun or adj
-  * use percent sign (%)
+    * *U.S.* acceptable as noun or adj
+  * use percent sign (*%*)
   * caps, periods
     * no periods for trademarks
-    * periods for most two-letter abbr (U.S., U.N., U.K., B.A., B.C.)
+    * periods for most two-letter abbr (*U.S.*, *U.N.*, *U.K.*, *B.A.*, *B.C.*)
 * [abortion](https://apstylebook.com/ap_stylebook/abortion)
-  * anti-abortion or abortion-rights
-  * NO: pro-life, pro-choice, pro-abortion
+  * *anti-abortion* or *abortion-rights*
+  * avoid using *pro-life*, *pro-choice*, *pro-abortion*
 * [academic degrees](https://apstylebook.com/ap_stylebook/academic-degrees)
-  * avoid using as suffix; describe their degree with prose
+  * avoid using as suffix; instead, describe their degree with prose
   * only use abbrs when cumbersome to not
-  * B.A., M.A. LL.D., Ph.D.; only following full names
+  * *B.A.*, *M.A.*, *LL.D.*, *Ph.D.*; only following full names
 * [academic departments](https://apstylebook.com/ap_stylebook/academic-departments)
   * only capitalize if formal name
 * [academic titles](https://apstylebook.com/ap_stylebook/academic-titles)
@@ -43,35 +43,36 @@
 * [accept, except](https://apstylebook.com/ap_stylebook/accept-except)
 * [accommodate](https://apstylebook.com/ap_stylebook/accommodate)
 * [administration](https://apstylebook.com/ap_stylebook/administration)
-  * gen. lowercase
+  * generally lowercase
 * [admit, admitted](https://apstylebook.com/ap_stylebook/admit-admitted)
-  * acknowledgment != admittance
+  * acknowledgment is not admittance
 * [act, amendment, bill, law, measure, ordinance, resolution, rule, statute](https://apstylebook.com/ap_stylebook/act-amendment-bill-law-measure-ordinance-resolution-rule-statute)
-  * bills passed, laws enacted, everything else adopted or approved
+  * bills *passed*, laws *enacted*, everything else *adopted* or *approved*
 * [Adrenalin](https://apstylebook.com/ap_stylebook/adrenalin)
-  * trademarked; use generic "adrenaline"
+  * trademarked; use generic *adrenaline*
 * [adverse, averse](https://apstylebook.com/ap_stylebook/adverse-averse)
-  * adverse: unfavorable, averse: reluctant
+  * *adverse* = unfavorable
+  * *averse* = reluctant
 * [adviser](https://apstylebook.com/ap_stylebook/adviser)
-  * not advisor
+  * not *advisor*
 * [affect, effect](https://apstylebook.com/ap_stylebook/affect-effect)
 * [Afghan](https://apstylebook.com/ap_stylebook/afghan)
-  * correct term for people/culture of Afghanistan (Afghani is currency)
+  * correct term for people/culture of Afghanistan (*Afghani* is currency)
 * [AFL-CIO](https://apstylebook.com/ap_stylebook/afl-cio)
   * acceptable in all refs
 * [African American](https://apstylebook.com/ap_stylebook/african-american)
   * see [race-related coverage](https://apstylebook.com/ap_stylebook/race-related-coverage)
 * [afterward](https://apstylebook.com/ap_stylebook/afterward)
-  * no plural (same for toward, backward, forward, etc)
+  * no plural (same for *toward*, *backward*, *forward*, etc)
 * [agent](https://apstylebook.com/ap_stylebook/agent)
   * lowercase unless formal title
 * [ages](https://apstylebook.com/ap_stylebook/ages)
   * always use figures
   * if modifier, hyphens; else no hyphens
-  * the 7-year-old boy, the 7 year old
+    * e.g. *the 7-year-old boy*, *the 7 year old*
 * [AIDS](https://apstylebook.com/ap_stylebook/aids)
   * acceptable in all refs
-  * same with HIV
+  * same with *HIV*
 * [ain't](https://apstylebook.com/ap_stylebook/ain-t)
   * don't use except in quotes
   * don't use a quote that makes someone look stupid (but you can't alter the quote)
@@ -81,79 +82,80 @@
 * [aka](https://apstylebook.com/ap_stylebook/aka)
   * lowercase, no periods
 * [Alaska](https://apstylebook.com/ap_stylebook/alaska)
-  * never abbrev
+  * never abbr
 * [Allah](https://apstylebook.com/ap_stylebook/allah)
-  * use God unless it's a quote
+  * use *God* unless it's a quote
 * [allege](https://apstylebook.com/ap_stylebook/allege)
   * use great care!
   * good: *A alleges B did X.*
     bad: *A accuses B of allegedly doing X.*
 * [all right](https://apstylebook.com/ap_stylebook/all-right)
-  * never alright
+  * never *alright*
   * hyphenate if modifier
 * [all time, all-time](https://apstylebook.com/ap_stylebook/all-time-all-time)
   * hyphenate if modifier
-  * *all-time record* is overly redundant
+  * *all-time record* is redundant
 * [al-Qaida](https://apstylebook.com/ap_stylebook/al-qaida)
   * always lowercase first letter (except beginning of sentence – try to avoid)
 * [alter, altar](https://apstylebook.com/ap_stylebook/altar-alter)
 * [alumnus, alumni, alumna, alumnae](https://apstylebook.com/ap_stylebook/alumnus-alumni-alumna-alumnae)
 * [Alzheimer's disease](https://apstylebook.com/ap_stylebook/alzheimer-s-disease)
-  * same capitalization for Parkinson's disease, etc
+  * same capitalization for *Parkinson's disease*, etc
 * amendments to U.S. Constitution
-  * spell out for First through Ninth; use number for 10th and beyond
+  * spell out for *First* through *Ninth*; use number for *10th* and beyond
 * [American Bar Association](https://apstylebook.com/ap_stylebook/american-bar-association)
-  * ABA on second ref
+  * *ABA* on second ref
 * [American Civil Liberties Union](https://apstylebook.com/ap_stylebook/american-civil-liberties-union)
-  * ACLU on second ref
+  * *ACLU* on second ref
 * [American Medical Association](https://apstylebook.com/ap_stylebook/american-medical-association)
-  * AMA on second ref
+  * *AMA* on second ref
 * [among, between](https://apstylebook.com/ap_stylebook/among-between)
-  * between: 2 items, among: 3+ items
+  * *between* = 2 items; *among* = 3+ items
 * [ampersand (&)](https://apstylebook.com/ap_stylebook/ampersand)
-  * only when part of formal name
+  * only use when part of formal name
 * [a.m., p.m.](https://apstylebook.com/ap_stylebook/a-m-p-m)
   * avoid redundant *10 a.m. this morning*
 * [animals](https://apstylebook.com/ap_stylebook/animals)
-  * no he/she unless sex has been established or it has a name
+  * refer to as *it* — no *he*/*she* unless sex has been established or it has a name
 * [anybody, any body, anyone, any one](https://apstylebook.com/ap_stylebook/anybody-any-body-anyone-any-one)
-  * one word: indefinite reference to all people
-  * two word: emphasis on singling out one element of group
+  * *anybody, anyone* = indefinite reference to all people
+  * *any body, any one* = emphasis on singling out one element of group
 * [AP](https://apstylebook.com/ap_stylebook/ap)
-  * only on second ref for The Associated Press
+  * only on second ref for *The Associated Press*
 * [Appalachia](https://apstylebook.com/ap_stylebook/appalachia)
-  * specifies broad geo region, narrower region for economic poverty
+  * specifies a broad region geographically
+  * narrower region for economic poverty
 * [arch-](https://apstylebook.com/ap_stylebook/arch)
   * no hyphen unless precedes capitalized word
 * [army](https://apstylebook.com/ap_stylebook/army)
-  * same rules as air force
+  * same rules as *air force*
 * [arrest](https://apstylebook.com/ap_stylebook/arrest)
   * do not use *arrested for X*; use *arrested on a charge of X*
   * if no charge yet, *arrested on suspicion of* (rare)
   * no names until they're booked
 * [assassin, killer, murderer](https://apstylebook.com/ap_stylebook/assassin-killer-murderer)
-  * assassin: kills for political motive
-  * killer: any motive
-  * murderer: convicted in court of law
+  * *assassin* = kills for political motive
+  * *killer* = any motive
+  * *murderer* = convicted in court of law
 * [assault, battery](https://apstylebook.com/ap_stylebook/assault-battery)
   * commonly, assault implies contact/violence
   * legally, it only refers to the threat of violence
 * [attorney general, attorneys general](https://apstylebook.com/ap_stylebook/attorney-general-attorneys-general)
-  * note where 's' goes
+  * note where *s* goes
 * [attorney, lawyer](https://apstylebook.com/ap_stylebook/attorney-lawyer)
   * commonly, synonyms
-  * legally, attorney means powered to act for someone, lawyers can legally practice law (aka attorney at law)
+  * legally, *attorney* means powered to act for someone, *lawyers* can legally practice law (aka *attorney at law*)
 
 ## B
 
 * [bad, badly](https://apstylebook.com/ap_stylebook/bad-badly)
-  * I feel bad
+  * *I feel bad*, not *I feel badly* (that would mean you aren't good at feeling)
 
 ---
 
 ***2020-01-21***
 
-* Baha'i (not in current book)
+* Baha'i
   * all religions are valid
 * [bail](https://apstylebook.com/ap_stylebook/bail)
   * *bail* is legal term, *bond* is financial term
@@ -166,21 +168,21 @@
   * first ref: *the Rev. John Doe*, second ref: *Doe*
 * [B.C.](https://apstylebook.com/ap_stylebook/b-c)
 * [bear market](https://apstylebook.com/ap_stylebook/bear-market)
-  * bear bad, bull good
+  * *bear* = bad; *bull* = good
 * [because, since](https://apstylebook.com/ap_stylebook/because-since)
   * *because* = cause-effect
   * *since* = logical sequence of events, but not direct cause
 * [betting odds](https://apstylebook.com/ap_stylebook/betting-odds)
   * use figures and hyphen (*The odds were 5-4.*)
 * [Bible](https://apstylebook.com/ap_stylebook/bible)
-  * capitalize when referencing **the** Bible, lowercase when non-religious
+  * capitalize when referencing **the** Bible; lowercase when non-religious
   * no italics
 * [Big Three automakers](https://apstylebook.com/ap_stylebook/big-three-automakers)
   * do not use this term
 * [birthday](https://apstylebook.com/ap_stylebook/birthday)
   * capitalize if part of holiday (*Washington's Birthday*)
 * [biweekly](https://apstylebook.com/ap_stylebook/biweekly)
-  * every other week
+  * every other week (*semiweekly* is twice a week)
 * [blackout, brownout](https://apstylebook.com/ap_stylebook/blackout-brownout)
   * *blackout* = total power failure over large area
   * *rolling blackout* = temporary cutoffs to prevent blackout
@@ -189,34 +191,35 @@
   * *blond* = noun for males, adjective for all
   * *blonde* = noun for females
 * [boats, ships](https://apstylebook.com/ap_stylebook/boats-ships)
-  * boat little, ship big
-  * it, not she
+  * *boats* are little; *ships* are big
+  * *it*, not *she*
 * [bond ratings](https://apstylebook.com/ap_stylebook/bond-ratings)
   * rating affects sell price of bond
-  * bonds=loans, stocks=purchases
+  * *bonds* = loans, *stocks* = purchases
 * [Boston](https://apstylebook.com/ap_stylebook/boston)
-  * stand alone in datelines (don't need to specify Massachusetts)
+  * stand alone in datelines (don't need *Massachusetts*)
 * [boulevard](https://apstylebook.com/ap_stylebook/boulevard)
-  * same as avenue
+  * same as *avenue*
 * [boy, girl](https://apstylebook.com/ap_stylebook/boy-girl)
   * males/females under 18
   * however, *child* means under 15
 * [Boy Scouts](https://apstylebook.com/ap_stylebook/boy-scouts)
   * all refs always capitalized
 * [break-in](https://apstylebook.com/ap_stylebook/break-in)
-  * *break-in* = noun/adj
-  * *break in* = verb
+  * *break-in* = n./adj.
+  * *break in* = v.
 * [breakup](https://apstylebook.com/ap_stylebook/breakup)
-  * *breakup* = noun/adj
-  * *break up* = verb
+  * *breakup* = n./adj.
+  * *break up* = v.
 * [broadcast](https://apstylebook.com/ap_stylebook/broadcast)
   * past tense is *broadcast*, not *broadcasted*
 * [bug, tap](https://apstylebook.com/ap_stylebook/bug-tap)
-  * bug listens in a room, tap goes on a phone circuit
+  * *bug* listens in a room
+  * *tap* goes on a phone circuit
 * [building](https://apstylebook.com/ap_stylebook/building)
   * never abbr, capitalize if part of name
 * [buildup](https://apstylebook.com/ap_stylebook/buildup)
-  * same rules as breakup
+  * same rules as *breakup*
 * [burglary, larceny, robbery, theft](https://apstylebook.com/ap_stylebook/burglary-larceny-robbery-theft)
   * *larceny* = wrongful taking of property, legal term
   * *burglary* = entering burglary and remaining unlawfully with intent to commit crime (does not necessarily involve larceny or break-in)
@@ -233,9 +236,9 @@
   * all caps, hyphen between base letters and station type
   * prefer familiar name, if one exists. e.g. *Fox 59 (WXIN-TV)*
 * [Canada](https://apstylebook.com/ap_stylebook/canada)
-  * Montreal, Quebec City, and Toronto stand alone in datelines
+  * *Montreal*, *Quebec City*, and *Toronto* stand alone in datelines
 * [capital](https://apstylebook.com/ap_stylebook/capital)
-  * *capital* = city of government seat (don't confuse with Capitol)
+  * city of government seat (don't confuse with *Capitol*)
 * [capitalization](https://apstylebook.com/ap_stylebook/capitalization)
   * avoid unnecessary capitals
   * capitalize:
@@ -248,7 +251,7 @@
     * titles
     * abbreviations
 * [Capitol](https://apstylebook.com/ap_stylebook/capitol)
-  * building of government seat
+  * building of government seat (don't confuse with *capital*)
 * [Catholic, Catholicism](https://apstylebook.com/ap_stylebook/catholic-catholicism)
   * capitalize when not generalized
 * [cellphone](https://apstylebook.com/ap_stylebook/cellphone)
@@ -259,7 +262,7 @@
   * *censure* = condemn
 * [cents](https://apstylebook.com/ap_stylebook/cents)
   * spell out in lowercase for amts < $1 (*12 cents*)
-  * use \$ and decimals for larger amts (*\$1.23*)
+  * use *\$* and decimals for larger amts (*\$1.23*)
 * [century](https://apstylebook.com/ap_stylebook/century)
   * lowercase, spell out numbers under 10
 * [chairman, chairwoman](https://apstylebook.com/ap_stylebook/chairman-chairwoman)
@@ -268,16 +271,16 @@
 * [character, reputation](https://apstylebook.com/ap_stylebook/character-reputation)
   * character is what god sees, reputation is what everyone else sees
 * [Chemical Mace](https://apstylebook.com/ap_stylebook/chemical-mace)
-  * Mace is a trademark, for generic use *tear gas* or similar
+  * *Mace* is a trademark; for generic, use *tear gas* or similar
 * [Chevy](https://apstylebook.com/ap_stylebook/chevy)
   * only use nickname in automobile features or quotes
 * [chief](https://apstylebook.com/ap_stylebook/chief)
   * capitalize only as formal title (for most police chiefs, it is not)
 * [children](https://apstylebook.com/ap_stylebook/children)
-  * see notes up at "boy, girl"
+  * see notes up at *boy, girl*
   * *kid* = baby goat
 * [Christmas, Christmas Day](https://apstylebook.com/ap_stylebook/christmas-christmas-day)
-  * capitalize Day as full name
+  * capitalize *Day* as full name
 * [church](https://apstylebook.com/ap_stylebook/church)
   * capitalize as building, congregation, denomination; lowercase if generic
 * [Central Intelligence Agency](https://apstylebook.com/ap_stylebook/central-intelligence-agency)
@@ -287,7 +290,7 @@
 * [city](https://apstylebook.com/ap_stylebook/city)
   * capitalize as part of proper name or common nickname (*Kansas City*, *Windy City*)
   * lowercase elsewhere (*the city Board of Education*, *the city of Boston*)
-  * same rules for state
+  * same rules for *state*
 * [cigarette](https://apstylebook.com/ap_stylebook/cigarette)
   * spell it right
 * [city council](https://apstylebook.com/ap_stylebook/city-council)
@@ -299,7 +302,7 @@
   * know the diff
 * [closely held corporation](https://apstylebook.com/ap_stylebook/closely-held-corporation)
   * shares owned by small number of investors, but not on an exchange
-* Coca-Cola Company
+* Coca-Cola Co.
 * [collective nouns](https://apstylebook.com/ap_stylebook/collective-nouns)
   * singular verbs/pronouns
 * [committee](https://apstylebook.com/ap_stylebook/committee)
@@ -338,7 +341,7 @@
   * avoid except in quotes
 * [contrasted to, contrasted with](https://apstylebook.com/ap_stylebook/contrasted-to-contrasted-with)
 * [controversial](https://apstylebook.com/ap_stylebook/controversial)
-  * overused – avoid
+  * avoid this word (overused)
 * [convict](https://apstylebook.com/ap_stylebook/convict)
   * *convicted of*, not *convicted for*
 * convince, persuade
@@ -379,9 +382,9 @@
 
 * [dad](https://apstylebook.com/ap_stylebook/dad)
   * if referring to a specific dad, capitalize
-  * (same for mom)
+  * (same for *mom*)
 * [dam](https://apstylebook.com/ap_stylebook/dam)
-  * cap in proper name
+  * capitalize in proper name (e.g. *Hoover Dam*)
 * [damage, damages](https://apstylebook.com/ap_stylebook/damage-damages)
   * *damage* = destruction
   * *damages* = compensation awarded by court
@@ -389,35 +392,36 @@
   * use instead of *dammit*
   * generally don't use profanity
 * [date line](https://apstylebook.com/ap_stylebook/date-line)
+  * two words for imaginary timezone line
 * **[datelines](https://apstylebook.com/ap_stylebook/datelines)**
   * Bb > course content > datelines
-  * *CITY, State/County (AP) — Begin story here...*
+  * *CITY, State/Country (AP) — Begin story here...*
     * remove state for well-known city names
     * follow state/country abbr rules
     * if *Associated Press* is in by-line, drop the *(AP)*
     * em dash, space on either side
   * don't need datelines for stories local to your publication
-  * don't use dateline if you weren't physically there
+  * unethical to use dateline if you weren't physically there
 * **[dates](https://apstylebook.com/ap_stylebook/dates)**
   * for 6 days in future/past, use day of week; after 7 days, use date
   * don't use *today/yesterday/tomorrow* unless in quote
-    * many orgs still use *today*
+    * many outlets ignore AP and still use *today*
   * use numerals, don't use *st/nd/rd/th*
   * without year: *Feb. 5*
   * with year: *Feb. 5, 2017,*
-  * include year with month unless it's this year
-    * for immediately next/previous year, you can sometimes drop the year if your wording makes it really clear
+  * include year with month, unless it's the current  year
+    * for immediately next/previous year, you can sometimes drop the year if your wording makes it really clear (esp in December)
 * [daylight saving time](https://apstylebook.com/ap_stylebook/daylight-saving-time)
   * not *savings*
 * [days of the week](https://apstylebook.com/ap_stylebook/days-of-the-week)
   * capitalize
-  * don't abbreviate unless in tabular form
+  * don't abbr unless in tabular form
 * [decades](https://apstylebook.com/ap_stylebook/decades)
   * no apostrophe after numeral (*1990s*)
   * apostrophe before if omitted numerals (*'90s*)
 * [Deep South](https://apstylebook.com/ap_stylebook/deep-south)
   * capitalize
-  * refers to AL, GA, LA, MS, SC
+  * refers to Alabama, Georgia, Louisiana, Mississippi, South Carolina
 * [defense attorney](https://apstylebook.com/ap_stylebook/defense-attorney)
   * always lowercase, never abbr
 * [defense spending](https://apstylebook.com/ap_stylebook/defense-spending)
@@ -465,15 +469,15 @@
   * use *Dr.* in first reference before doctors in medical fields
 * [dollars](https://apstylebook.com/ap_stylebook/dollars-2)
   * always lowercase
-  * use figures and $ sign
+  * use figures and *$* sign
     * except casually (*Dad, give me a dollar.*)
-    * except without digure (*Dollars are flowing.*)
+    * except without figure (*Dollars are flowing.*)
   * singular verb
   * if > $1 million, use up to two decimal places
 * [Down syndrome](https://apstylebook.com/ap_stylebook/down-syndrome)
   * *Down* not *Down's*
 * [drowned, was drowned](https://apstylebook.com/ap_stylebook/drowned-was-drowned)
-  * *drowned* means they just died, maybe accidentally
+  * *drowned* just means they died, maybe accidentally
   * *was drowned* implies someone drowned them
 * [drunk, drunken](https://apstylebook.com/ap_stylebook/drunk-drunken)
   * *drunk* = adj used after "to be" verb (*He was drunk.*)
@@ -487,32 +491,32 @@
 * [each](https://apstylebook.com/ap_stylebook/each)
   * singular
 * [each other, one another](https://apstylebook.com/ap_stylebook/each-other-one-another)
-  * 2 people: each other
-    3+: one another
+  * *each other* = 2 people
+  * *one another* = 3+ people
 * [Earth](https://apstylebook.com/ap_stylebook/earth)
   * capitalize if proper name
 * [earthquakes](https://apstylebook.com/ap_stylebook/earthquakes)
-  * don't bother with scale; just *magnitude 6.7* (or *6.7 magnitude*)
+  * don't bother with scale; just say *magnitude 6.7* (or *6.7 magnitude*)
   * each integer increase is a 10x increase
 * [Eastern Hemisphere](https://apstylebook.com/ap_stylebook/eastern-hemisphere)
   * half of earth with africa, asia, australia, europe
 * [ecology](https://apstylebook.com/ap_stylebook/ecology)
   * study of environment (not synonymous w/ environment)
 * [editor-in-chief](https://apstylebook.com/ap_stylebook/editor-in-chief)
-  * hyphenize and capitalize as formal title
+  * hyphenate and capitalize as formal title
   * exception to Webster's
 * [either](https://apstylebook.com/ap_stylebook/either)
-  * means "one or the other", not "both"
+  * means *one or the other*, not *both*
 * [either ... or, neither ... nor](https://apstylebook.com/ap_stylebook/either-or-neither-nor)
 * [elderly](https://apstylebook.com/ap_stylebook/elderly)
-  * use carefully, only if pertinent to story (much like disabilities)
+  * use carefully, only mention if pertinent to story (much like disabilities)
 * [election returns](https://apstylebook.com/ap_stylebook/election-returns)
-  * hyphenate if <1,000, use "X to Y" if > 1,000
+  * hyphenate if <1,000; use *X to Y* if > 1,000
 * [email](https://apstylebook.com/ap_stylebook/email)
   * no hyphen
-  * other terms use hyphen still (e.g. *e-book*)
+  * other *e-* terms still use hyphen (e.g. *e-book*)
 * [emigrate, immigrate](https://apstylebook.com/ap_stylebook/emigrate-immigrate)
-  * emigrate out, immigrate in
+  * *emigrate* = go out; *immigrate* = come in
 * [engine, motor](https://apstylebook.com/ap_stylebook/engine-motor)
   * engine develops own power
   * motor receives power from outside source
@@ -523,15 +527,15 @@
   * means you have the right to do/have something
   * not syonymous with *titled*
 * [Environmental Protection Agency](https://apstylebook.com/ap_stylebook/environmental-protection-agency)
-  * EPA on second reference
-  * need to be clear if state vs U.S. EPA
+  * *EPA* on second reference
+  * need to be clear if state vs federal EPA
 * [equal](https://apstylebook.com/ap_stylebook/equal)
-  * equal = the same
-  * equitable = fair
+  * *equal* = the same
+  * *equitable* = fair
 * [equally as](https://apstylebook.com/ap_stylebook/equally-as)
   * usually don't need both words; one or the other
 * [Equal Rights Amendment](https://apstylebook.com/ap_stylebook/equal-rights-amendment)
-  * ERA on second reference
+  * *ERA* on second reference
 * [ERA](https://apstylebook.com/ap_stylebook/era)
   * acceptable on first ref for baseball stat
 * [essential clauses, nonessential clauses](https://apstylebook.com/ap_stylebook/essential-clauses-nonessential-clauses)
@@ -540,7 +544,7 @@
 * [euro](https://apstylebook.com/ap_stylebook/euro)
   * lowercase
   * plural is *euros*
-  * don't use €
+  * don't use *€* sign
 * [every one, everyone](https://apstylebook.com/ap_stylebook/every-one-everyone)
   * *everyone* = all people
   * *every one* = specifically referring to each individual item of a set
@@ -550,7 +554,7 @@
   * lowercase unless title
 * [eye to eye, eye-to-eye](https://apstylebook.com/ap_stylebook/eye-to-eye-eye-to-eye)
   * hypenate if modifier
-  * similar for face to face
+  * similar for *face to face*
 
 ## F
 
@@ -575,14 +579,14 @@
 * [federal court](https://apstylebook.com/ap_stylebook/federal-court)
   * always lowercase (*a federal court in Manhattan*)
 * [Federal Highway Administration](https://apstylebook.com/ap_stylebook/federal-highway-administration)
-  * reserve *FHA* abbr for Federal Housing Administration
+  * don't abbr; reserve *FHA* abbr for Federal Housing Administration
 * [felony, misdemeanor](https://apstylebook.com/ap_stylebook/felony-misdemeanor)
-  * felony = serious crime, >1 year in prison
-  * misdemeanor = minor offense, <1 year in jail
+  * *felony* = serious crime, >1 year in prison
+  * *misdemeanor* = minor offense, <1 year in jail
   * both can be state or federal
   * *convicted felon* = redundant
 * [female](https://apstylebook.com/ap_stylebook/female)
-  * use as adj over *woman* or *girl*
+  * use as adj instead of *woman* or *girl*
 * [fewer, less](https://apstylebook.com/ap_stylebook/fewer-less)
   * *fewer* = individual items
   * *less* = bulk/quantity
@@ -590,13 +594,13 @@
   * *fiance* = man
   * *fiancee* = woman
 * [Fiberglas](https://apstylebook.com/ap_stylebook/fiberglas)
-  * single 's' is a trademark. use *fiberglass* or *glass fiber* generically
+  * single *s* is a trademark; for generic, use *fiberglass* or *glass fiber*
 * [filibuster](https://apstylebook.com/ap_stylebook/filibuster)
-  * one who filibusters is a *filibuster*
+  * one who filibusters is a *filibuster* (not *filibusterer*)
 * [firefighter](https://apstylebook.com/ap_stylebook/firefighter)
   * preferred over *fireman*
 * [first degree, first-degree](https://apstylebook.com/ap_stylebook/first-degree-first-degree)
-  * hyphenate if modifier
+  * hyphenate if it's a modifier; else no hyphen
 * [flaunt, flout](https://apstylebook.com/ap_stylebook/flaunt-flout)
   * *flaunt* = make ostentatious display
   * *flout* = show contempt
@@ -607,12 +611,13 @@
   * *after* = chronological (use as preposition)
   * *following* = everything else
 * [forbear, forebear](https://apstylebook.com/ap_stylebook/forbear-forebear)
-  * forbear = avoid
-  * forebear = ancestor
+  * *forbear* = avoid
+  * *forebear* = ancestor
 * [foot](https://apstylebook.com/ap_stylebook/foot)
   * always spelled out, never abbr'd
 * [forcible rape](https://apstylebook.com/ap_stylebook/forcible-rape)
-  * redundant and should be avoided (unless contrasting with *statutory rape*)
+  * *forcible* is redundant and should be avoided
+    * unless contrasting with *statutory rape*
 * [Ford Motor Co.](https://apstylebook.com/ap_stylebook/ford-motor-co)
   * *Ford* on second ref
 * [forecast](https://apstylebook.com/ap_stylebook/forecast)
@@ -626,7 +631,7 @@
   * not *forwards*
 * [foul, fowl](https://apstylebook.com/ap_stylebook/foul-fowl)
 * [Founding Fathers](https://apstylebook.com/ap_stylebook/founding-fathers)
-  * capitalize for Consititution dudes
+  * capitalize for the Consititution dudes; else lowercase
 * [Fourth Estate](https://apstylebook.com/ap_stylebook/fourth-estate)
   * capitalize
 * [Fourth of July, July Fourth](https://apstylebook.com/ap_stylebook/fourth-of-july-july-fourth)
@@ -635,7 +640,7 @@
   * no space
 * [fractions](https://apstylebook.com/ap_stylebook/fractions)
   * spell out
-  * use decimals for >1
+  * switch to decimal figures for values > 1
 * [Frisbee](https://apstylebook.com/ap_stylebook/frisbee)
   * trademark for plastic toy; prefer *flying disc* if generic
 * [full-](https://apstylebook.com/ap_stylebook/full)
@@ -654,7 +659,7 @@
   * *garnish* = decoration or ornament; legally, attack property/wages as result of legal action
   * *garnishee* = individual whose property was garnished
 * [gay, lesbian](https://apstylebook.com/ap_stylebook/gay-lesbian)
-  * preferred over *homosexual* outside of medical contexts
+  * preferred over *homosexual*, except maybe in medical/scientific contexts
 * [General Motors Co.](https://apstylebook.com/ap_stylebook/general-motors-co)
   * *GM* on second ref
 * [gentleman](https://apstylebook.com/ap_stylebook/gentleman)
@@ -672,7 +677,7 @@
 * [good, well](https://apstylebook.com/ap_stylebook/good-well)
   * *I feel good!* (not *well*)
 * [Google](https://apstylebook.com/ap_stylebook/google)
-  * can be verb (*I Googled my name.*)
+  * can be verb, but still capitalize (*He Googled my name.*)
 * [GOP](https://apstylebook.com/ap_stylebook/gop)
   * second ref for *Republican Party*
 * [government](https://apstylebook.com/ap_stylebook/government)
@@ -684,7 +689,7 @@
   * always capitalize and abbr as title, even if plural (*Gov.* and *Govs.*)
 * [graduate](https://apstylebook.com/ap_stylebook/graduate)
   * use in active voice
-  * do not drop *from*
+  * do not drop *from* (e.g. *He graduated from Harvard*, not *He graduated Harvard*)
 * [grand jury](https://apstylebook.com/ap_stylebook/grand-jury)
   * always lowercase
   * there can be multiple, so you might use *a grand jury* instead of *the grand jury*
@@ -697,7 +702,7 @@
 
 * [habeas corpus](https://apstylebook.com/ap_stylebook/habeas-corpus)
   * writ ordering suspect in custody to be brought before court
-  * explain if you use it
+  * explain it if you use it
 * [half](https://apstylebook.com/ap_stylebook/half)
   * don't need *of* (e.g. *half the time*)
 * [Halley's comet](-)
@@ -750,11 +755,12 @@
 * [horsepower](https://apstylebook.com/ap_stylebook/horsepower)
   * one word, don't abbr
 * [House of Representatives](https://apstylebook.com/ap_stylebook/house-of-representatives)
-  * capitalize if specific (even if you've dropped some words)
+  * capitalize if referring to specific body (even if you've dropped some modifiers)
 * [HTML](https://apstylebook.com/ap_stylebook/html)
   * know what it is
 * [hurricane](https://apstylebook.com/ap_stylebook/hurricane)
-  * capitalize names (*Hurricane Harvey*), but use *it* (not *he* or *she*)
+  * capitalize names (*Hurricane Harvey*)
+  * use *it* (not *he* or *she*)
 * hyperlink
   * know what it is
 
@@ -764,7 +770,7 @@
   * lowercase because there have been many of them
 * [illegal](https://apstylebook.com/ap_stylebook/illegal)
   * only means a violation of the law (except in sports/games)
-  * be careful if a judge hasn't declared it
+  * be careful if a judge hasn't declared it so
 * [illegal immigration](https://apstylebook.com/ap_stylebook/illegal-immigration)
   * will be covered later
 * [impeachment](https://apstylebook.com/ap_stylebook/impeachment)
@@ -804,8 +810,8 @@
 * [Jacuzzi](https://apstylebook.com/ap_stylebook/jacuzzi)
   * trademark; generic is *whirlpool bath/spa*
 * [jail](https://apstylebook.com/ap_stylebook/jail)
-  * jail != prison
-  * jail = holding until convicted and where you serve misdemeanors
+  * different from *prison*
+  * *jail* = holding until convicted and where you serve misdemeanors
   * prison is way worse than jail
 * [J.C. Penney Co.](https://apstylebook.com/ap_stylebook/j-c-penney-co)
   * spelling
@@ -861,7 +867,7 @@
 * [last](https://apstylebook.com/ap_stylebook/last)
   * avoid use as synonym of *latest* if it might imply finality
 * [Latino, Latina](https://apstylebook.com/ap_stylebook/latino-latina)
-  * generally, *Hispanic* preferred, but personal pref trumps
+  * generally, *Hispanic* preferred, but personal preference trumps
 * [lawsuit](https://apstylebook.com/ap_stylebook/lawsuit)
   * *civil lawsuit* is redundant
 * [lectures](https://apstylebook.com/ap_stylebook/lectures)
@@ -883,11 +889,12 @@
 * [loan terminology](https://apstylebook.com/ap_stylebook/loan-terminology)
   * will be covered later
 * [local](https://apstylebook.com/ap_stylebook/local)
-  * avoid irrelevant usage (it's obvious in many cases)
+  * avoid irrelevant usage (it's implicitly local for local news)
+  * e.g. *hospital*, not *local hospital*
 * [long term, long-term](https://apstylebook.com/ap_stylebook/long-term-long-term)
   * hyphenate as a modifier, don't as a noun
 * [-ly](https://apstylebook.com/ap_stylebook/ly)
-  * don't hyphenate
+  * don't hyphenate after *-ly* adverbs
 * [Lyndon B. Johnson Space Center](https://apstylebook.com/ap_stylebook/lyndon-b-johnson-space-center)
   * located in Houston
   * *Johnson Space Center* in all refs
@@ -903,7 +910,7 @@
 * [magistrate](https://apstylebook.com/ap_stylebook/magistrate)
   * only capitalize if formal title
 * [mailman](https://apstylebook.com/ap_stylebook/mailman)
-  * *mail* or *letter carrier* is preferred
+  * *mail carrier* or *letter carrier* is preferred (non-gendered)
 * [majority, plurality](https://apstylebook.com/ap_stylebook/majority-plurality)
   * *majority* = more than half
   * *plurality* = more than next highest number
@@ -962,7 +969,7 @@
   * abbreviate only when used with specific date
   * (he showed DATES2.pdf)
 * [mount](https://apstylebook.com/ap_stylebook/mount)
-  * spell out even in place names
+  * spell out, even in place names (e.g. *Mount Healthy*)
   * (but abbr *Saint*)
 * [Muhammad](https://apstylebook.com/ap_stylebook/muhammad)
   * use other spellings if preferred
@@ -998,7 +1005,7 @@
   * don't capitalize the category (except *Nobel Peace Prize*)
 * [nolo contendere](https://apstylebook.com/ap_stylebook/nolo-contendere)
   * no contest – not admitting guilt but not offering a defense
-  * defendent retains option of denying the charge later
+  * defendant retains option of denying the charge later
 * [none](https://apstylebook.com/ap_stylebook/none)
   * usually means *no single one*
   * will come back to later
