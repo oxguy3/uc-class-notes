@@ -473,7 +473,7 @@
     * except casually (*Dad, give me a dollar.*)
     * except without figure (*Dollars are flowing.*)
   * singular verb
-  * if > $1 million, use up to two decimal places
+  * if > $1 million, use up to 2 decimal places
 * [Down syndrome](https://apstylebook.com/ap_stylebook/down-syndrome)
   * *Down* not *Down's*
 * [drowned, was drowned](https://apstylebook.com/ap_stylebook/drowned-was-drowned)
@@ -483,7 +483,7 @@
   * *drunk* = adj used after "to be" verb (*He was drunk.*)
   * *drunken* = adj used before nouns (*a drunken driver*)
 * [drugs](https://apstylebook.com/ap_stylebook/drugs)
-  * acceptable for narcotics or medications
+  * acceptable for *narcotics* or *medications*
   * *illegal/illicit drugs* or *medicine/medication* preferred for distinguishing
 
 ## E
@@ -499,7 +499,7 @@
   * don't bother with scale; just say *magnitude 6.7* (or *6.7 magnitude*)
   * each integer increase is a 10x increase
 * [Eastern Hemisphere](https://apstylebook.com/ap_stylebook/eastern-hemisphere)
-  * half of earth with africa, asia, australia, europe
+  * the half of Earth with Africa, Asia, Australia, Europe
 * [ecology](https://apstylebook.com/ap_stylebook/ecology)
   * study of environment (not synonymous w/ environment)
 * [editor-in-chief](https://apstylebook.com/ap_stylebook/editor-in-chief)
@@ -518,11 +518,11 @@
 * [emigrate, immigrate](https://apstylebook.com/ap_stylebook/emigrate-immigrate)
   * *emigrate* = go out; *immigrate* = come in
 * [engine, motor](https://apstylebook.com/ap_stylebook/engine-motor)
-  * engine develops own power
-  * motor receives power from outside source
+  * *engine* develops own power
+  * *motor* receives power from outside source
 * [ensure, insure, assure](https://apstylebook.com/ap_stylebook/ensure-insure-assure)
-  * ensure: guarantee
-  * insure: related to insurance
+  * *ensure* = guarantee
+  * *insure* = related to insurance
 * [entitled](https://apstylebook.com/ap_stylebook/entitled)
   * means you have the right to do/have something
   * not syonymous with *titled*
@@ -626,7 +626,7 @@
   * *forego* = go before
   * *forgo* = abstain
 * [Formica](https://apstylebook.com/ap_stylebook/formica)
-  * trademark for laminated plastic
+  * trademark for *laminated plastic*
 * [forward](https://apstylebook.com/ap_stylebook/forward)
   * not *forwards*
 * [foul, fowl](https://apstylebook.com/ap_stylebook/foul-fowl)
@@ -1012,3 +1012,128 @@
 * [numerals](https://apstylebook.com/ap_stylebook/numerals)
   * short guide in Bb
   * don't start sentence with a figure (except for a year)
+
+---
+
+***2020-02-06***
+
+## O
+
+* [obscenities, profanities, vulgarities](https://apstylebook.com/ap_stylebook/obscenities-profanities-vulgarities)
+  * avoid using unless in a quote and there's a compelling reason
+* [ocean](https://apstylebook.com/ap_stylebook/ocean)
+  * lowercase except in name of one of the five oceans
+* [office](https://apstylebook.com/ap_stylebook/office)
+  * capitalize only if part of formal name
+* [Office of Thrift Supervision](https://apstylebook.com/ap_stylebook/office-of-thrift-supervision)
+  * U.S. Treasury Dept bureau
+  * *OTS* on second ref
+* [off of](https://apstylebook.com/ap_stylebook/off-of)
+  * *of* is unnecessary
+* [Ohio](https://apstylebook.com/ap_stylebook/ohio)
+  * don't abbr
+* [OK, OK'd, OK'ing, OKs](https://apstylebook.com/ap_stylebook/ok-ok-d-ok-ing-oks)
+  * not *okay*
+* [on](https://apstylebook.com/ap_stylebook/on)
+  * don't use before date unless sentence is confusing without it
+* [one-](https://apstylebook.com/ap_stylebook/one)
+  * hyphenate when writing fractions
+* [online](https://apstylebook.com/ap_stylebook/online)
+  * one word (same as *website*)
+* [OPEC](https://apstylebook.com/ap_stylebook/opec)
+  * acceptable in all refs for *Organization of the Petroleum Exporting Countries*
+* [Orient, Oriental](https://apstylebook.com/ap_stylebook/orient-oriental)
+* [over](https://apstylebook.com/ap_stylebook/over)
+  * preferred to only use for spatial relations, but is acceptable for monetary relations as well
+* [overall](https://apstylebook.com/ap_stylebook/overall)
+  * one word
+* [owner](https://apstylebook.com/ap_stylebook/owner)
+  * not a formal title, not capitalized
+* [pacemaker](https://apstylebook.com/ap_stylebook/pacemaker)
+  * formerly a trademark but now a generic term
+* [page numbers](https://apstylebook.com/ap_stylebook/page-numbers)
+  * capitalize *Page*, *Section*, *Act*, etc when followed by a figure
+* [palate, palette, pallet](https://apstylebook.com/ap_stylebook/palate-palette-pallet)
+  * *palate* = roof of mouth
+  * *palette* = artist's paint board
+  * *pallet* = low platform
+* [pardon, parole, probation](https://apstylebook.com/ap_stylebook/pardon-parole-probation)
+  * *pardon* = forgives and releases person who has been incarcerated, granted by governors or president
+  * *parole* = release of prisoner before sentence has expired for good behavior, granted/revoked by parole board
+  * *probation* = suspension of sentence for convict who hasn't been incarcerated, granted/revoked by judge
+* [Parkinson's disease](https://apstylebook.com/ap_stylebook/parkinson-s-disease)
+  * note lowercase *disease*
+* [part time, part-time](https://apstylebook.com/ap_stylebook/part-time-part-time)
+  * hyphenate if modifier; no hyphen otherwise
+* [party affiliation](https://apstylebook.com/ap_stylebook/party-affiliation)
+  * can be used on first ref (*Republican Sen. Tim Scott of South Carolina*)
+  * second ref to add context (*Rep. Frank Lucas of Oklahoma, the senior Republican on the House Agriculture Committee, said he supports the amendment.*)
+  * leave out only in clearly non-political stories
+  * abbr like *R-S.C.*
+* [passerby, passersby](https://apstylebook.com/ap_stylebook/passerby-passersby)
+  * noun gets plural, not the end
+* [PDF](https://apstylebook.com/ap_stylebook/pdf)
+  * capitalize, abbr in all refs
+* [pedal, peddle](https://apstylebook.com/ap_stylebook/pedal-peddle)
+  * You *pedal* a bike, you *peddle* products for sale.
+* [people, person](https://apstylebook.com/ap_stylebook/people-persons)
+  * *people* is collective, *persons* only in quote or title
+* [percent, percentage, percentage points](https://apstylebook.com/ap_stylebook/percent-percentage-percentage-points)
+  * *%* sign with numeral in most cases (new in 2019)
+* [-person](https://apstylebook.com/ap_stylebook/person)
+  * acceptable in formal name or if preferred by individual (*chairperson*, *spokesperson*)
+* pica
+  * page design term: 1/6th of an inch
+* [planets](https://apstylebook.com/ap_stylebook/planets)
+  * capitalize proper names, incl. *Earth* when proper name
+  * capitalize nouns/adjs derived from planet names (*Martian*, *Venusian*)
+    * but not from other heavenly bodies (*solar*, *lunar*)
+* [plants](https://apstylebook.com/ap_stylebook/plants)
+  * lowercase plant names unless they include proper noun
+* [plurals](https://apstylebook.com/ap_stylebook/plurals)
+  * long typical grammar rules i'm not gonna copy
+* [p.m., a.m.](https://apstylebook.com/ap_stylebook/p-m-a-m)
+* [police department](https://apstylebook.com/ap_stylebook/police-department)
+  * capitalize only if part of or in reference to formal name
+* [political parties and philosophies](https://apstylebook.com/ap_stylebook/political-parties-and-philosophies)
+  * capitalize if specific political party
+  * lowercase if generically referring to philosophy
+* [politics](https://apstylebook.com/ap_stylebook/politics)
+  * usually plural, but singular as a study or science
+* [possessives](https://apstylebook.com/ap_stylebook/possessives)
+  * long typical grammar rules i'm not gonna copy
+* [premiere](https://apstylebook.com/ap_stylebook/premiere)
+  * first performance
+* [presidency](https://apstylebook.com/ap_stylebook/presidency)
+  * always lowercase
+* [president](e)
+  * capitalize only as formal title before name
+* [presidential](https://apstylebook.com/ap_stylebook/presidential)
+  * lowercase unless part of proper name
+* [press conference](https://apstylebook.com/ap_stylebook/press-conference)
+  * *news conference* is preferred
+* [principal, principle](https://apstylebook.com/ap_stylebook/principal-principle)
+  * *principal* = something first-ranked or an authority
+  * *principle* = tenet
+* [prison, jail](https://apstylebook.com/ap_stylebook/prison-jail)
+  * not interchangeable!
+* [Procter & Gamble Co.](https://apstylebook.com/ap_stylebook/procter-gamble-co)
+  * spell *Procter* right!!
+  * *P&G* on second ref
+* [professor](https://apstylebook.com/ap_stylebook/professor)
+  * never abbr, always lowercase
+  * exception: *Professor Emeritus* as title before name
+* [prosecutor](https://apstylebook.com/ap_stylebook/prosecutor)
+  * capitalize before name when formal title
+  * usually, the formal title is a different term – use that term instead
+* [protective tariff](https://apstylebook.com/ap_stylebook/protective-tariff)
+  * a duty to prevent foreign producers from effective competition
+* [prove, proved, proving](https://apstylebook.com/ap_stylebook/prove-proved-proving)
+  * use *proven* only as adj
+  * evidence != proof
+* [proxy](https://apstylebook.com/ap_stylebook/proxy)
+  * authorization for someone else to vote on your behalf
+* [PTA](https://apstylebook.com/ap_stylebook/pta)
+  * acceptable in all refs
+* [Pulitzer Prize](https://apstylebook.com/ap_stylebook/pulitzer-prizes)
+  * capitalize *Pulitzer Prize*, but lowercase the category (e.g. *Pulitzer Prize for fiction*)
