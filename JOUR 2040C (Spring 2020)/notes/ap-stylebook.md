@@ -961,7 +961,7 @@
 * [millions, billions, trillions](https://apstylebook.com/ap_stylebook/millions-billions-trillions)
   * use figures with these words
   * go to two decimal places at most
-  * only abbr millions, billions to *$5M*, *$1.7B* in headlines
+  * only abbr *millions*, *billions* to *$5M*, *$1.7B* in headlines
 * [minister](https://apstylebook.com/ap_stylebook/minister)
   * not a formal title in most religions
   * not capitalized unless formal title before name
@@ -1012,4 +1012,3 @@
 * [numerals](https://apstylebook.com/ap_stylebook/numerals)
   * short guide in Bb
   * don't start sentence with a figure (except for a year)
-
