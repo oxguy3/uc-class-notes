@@ -1137,3 +1137,167 @@
   * acceptable in all refs
 * [Pulitzer Prize](https://apstylebook.com/ap_stylebook/pulitzer-prizes)
   * capitalize *Pulitzer Prize*, but lowercase the category (e.g. *Pulitzer Prize for fiction*)
+
+---
+
+***2020-02-11***
+
+## Q
+
+* [Q-tips](https://apstylebook.com/ap_stylebook/q-tips)
+  * trademark for *cotton swabs*
+* [quotations in the news](https://apstylebook.com/ap_stylebook/quotations-in-the-news)
+  * never modify quotes, even to fix grammar mistakes
+    * exception: change *gonna* to *going to* and *wanna* to *want to*
+  * avoid fragmentary quotes
+    * use full quote or paraphrase
+* [Quran](https://apstylebook.com/ap_stylebook/quran)
+  * preferred spelling
+
+## R
+
+* [race-related coverage](https://apstylebook.com/ap_stylebook/race-related-coverage)
+  * don't identify race unless pertinent; e.g.:
+    * achievements (e.g. *first black U.S. president*)
+    * description of missing persons which includes more info than just race
+* [rack, wrack](https://apstylebook.com/ap_stylebook/rack-wrack)
+  * *rack* = (n.) framework; (v.) to torture, trouble, torment
+  * *wrack* = (n.) ruin or destruction (v.) basically same as *rack*, which is preferred
+* [radical](https://apstylebook.com/ap_stylebook/radical)
+  * avoid in favor of more precise terminology
+* [rank and file](https://apstylebook.com/ap_stylebook/rank-and-file)
+  * hyphenate if adj; don't hyphenate if noun
+* [ratio](https://apstylebook.com/ap_stylebook/ratios)
+  * *the ratio was 2-to-1, a ratio of 2-to-1, a 2-1 ratio, 1 in 4 voters*
+* [ravage, ravish](https://apstylebook.com/ap_stylebook/ravage-ravish)
+  * *ravage* = wreak great destruction
+  * *ravish* = abduct, rape, carry away with emotion
+* [rebut, refute](https://apstylebook.com/ap_stylebook/rebut-refute)
+  * *rebut* = argue the contrary
+  * *refute* = denotes success which is subjective; avoid
+* [receivership](https://apstylebook.com/ap_stylebook/receivership)
+  * court appoints *receiver* to business while court tries to resolve problems e.g. insolvency
+* [record](https://apstylebook.com/ap_stylebook/record)
+  * avoid redundant *new record*
+* [red-haired, redhead, redheaded](https://apstylebook.com/ap_stylebook/red-haired-redhead-redheaded)
+  * all are acceptable
+* [redneck](https://apstylebook.com/ap_stylebook/redneck)
+  * can be derogatory; avoid
+* [reference works](https://apstylebook.com/ap_stylebook/reference-works)
+  * capitalize name but no quotes
+* [regin, rein](https://apstylebook.com/ap_stylebook/reign-rein)
+  * *rein* = leather strap for horse
+  * *reign* = period of ruler's rule
+* [religious references](https://apstylebook.com/ap_stylebook/religious-references)
+  * capitalize proper names of monotheistic deities
+  * lowercase pronouns
+  * lowercase *gods* in polytheistic religions
+  * *God* preferred over *Allah*
+  * capitalize Jesus major events (*the Last Supper*, *the Crucifxion*)
+  * capitalize holy days
+  * lowercase *heaven, hell, devil, angel, cherub, an apostle, a priest*, etc.
+* [religious titles](https://apstylebook.com/ap_stylebook/religious-titles)
+  * *the Rev.* preferred, even for priest
+  * also capitalize *Rabbi*, *Sister*, *Mother*
+  * prefer non-religious name if they don't exclusively use religious name
+* [Republican, Republican Party](https://apstylebook.com/ap_stylebook/republican-republican-party)
+  * *GOP* on second ref
+* [revolution](https://apstylebook.com/ap_stylebook/revolution)
+  * capitalize only as part of title or in ref to the *American Revolution*
+* [right of way, rights of way](https://apstylebook.com/ap_stylebook/right-of-way-rights-of-way)
+* [river](https://apstylebook.com/ap_stylebook/river)
+  * capitalize  as part of proper name
+* [room numbers](https://apstylebook.com/ap_stylebook/room-numbers)
+  * capitalize with a figure (*Room 2*)
+* RSS
+  * newsfeed technology
+
+## S
+
+* [saint](https://apstylebook.com/ap_stylebook/saint)
+  * abbr as *St.* for names of saints, cities, places
+* [SAT](https://apstylebook.com/ap_stylebook/sat)
+  * use on first ref
+* [Satan](https://apstylebook.com/ap_stylebook/satan)
+  * *Satan* but *devil* and *satanic*
+* [Saudi Arabia](https://apstylebook.com/ap_stylebook/saudi-arabia)
+  * the people are *Saudi*
+* savior
+  * not *saviour*
+* [scene numbers](https://apstylebook.com/ap_stylebook/scene-numbers)
+  * capitalize *Scene* if used with figure
+* [scissors](https://apstylebook.com/ap_stylebook/scissors)
+  * plural
+* [seasons](https://apstylebook.com/ap_stylebook/seasons)
+  * lowercase except in proper name
+* [secretary-general](https://apstylebook.com/ap_stylebook/secretary-general)
+  * hyphenate; capitalize as title
+* [secretary-treasurer](https://apstylebook.com/ap_stylebook/secretary-treasurer)
+  * hyphenate; capitalize as title
+* MISSED ONE
+* [section](https://apstylebook.com/ap_stylebook/section)
+  * capitalize if used with figure
+* [Seeing Eye dog](https://apstylebook.com/ap_stylebook/seeing-eye-dog)
+  * trademarked; *guide dog* is preferred
+* [Senate](https://apstylebook.com/ap_stylebook/senate)
+  * capitalize if specific (same as *City Council*, etc)
+* [sentences](https://apstylebook.com/ap_stylebook/sentences)
+  * capitalize first word
+  * don't start sentence with a figure unless year or includes letters
+  * capitalize first letter quoted sentence
+* [Sept. 11](https://apstylebook.com/ap_stylebook/sept-11)
+  * acceptable; *9/11* also acceptable
+* [sesquicentennial](https://apstylebook.com/ap_stylebook/sesquicentennial)
+  * 150-year period
+* [shall, will](https://apstylebook.com/ap_stylebook/shall-will)
+  * *shall* expresses determination; otherwise use *will*
+* [she](https://apstylebook.com/ap_stylebook/she)
+  * don't use for ships/nations
+* [sheriff](https://apstylebook.com/ap_stylebook/sheriff)
+  * capitalize if formal title
+* [Social Security](https://apstylebook.com/ap_stylebook/social-security)
+  * capitalize
+* [space shuttle](https://apstylebook.com/ap_stylebook/space-shuttle)
+  * lowercase *space shuttle* but capitalize names of shuttles (e.g. *space shuttle Discovery*)
+  * NASA used from 1981 to 2011
+* [species](https://apstylebook.com/ap_stylebook/species)
+  * can be singular or plural, depending on usage
+* [Speaker](https://apstylebook.com/ap_stylebook/speaker)
+  * capitalize as formal title
+* [speeds](https://apstylebook.com/ap_stylebook/speeds)
+  * use figures with *mph*, *knots*, etc
+* spokesperson
+  * acceptable 
+* [sports writer](https://apstylebook.com/ap_stylebook/sports-writer)
+  * two words; exception to Webster's
+* [state](https://apstylebook.com/ap_stylebook/state)
+  * lowercase in all *state of* constructions
+* [statehouse](https://apstylebook.com/ap_stylebook/statehouse)
+  * capitalize if specific
+* [state names](https://apstylebook.com/ap_stylebook/state-names)
+  * never abbr *Alaska*, *Hawaii*, *Idaho*, *Iowa*, *Maine*, *Ohio*, *Texas* and *Utah*
+  * only abbr in datelines, not story
+  * for cities, always do *City, State,*
+* [State of the Union](https://apstylebook.com/ap_stylebook/state-of-the-union)
+  * capitalize for the speech
+* [state police](https://apstylebook.com/ap_stylebook/state-police)
+  * capitalize if part of formal description of agency
+* [stationary, stationery](https://apstylebook.com/ap_stylebook/stationary-stationery)
+  * *stationary* = standing still
+  * *stationery* = writing paper
+* [stepbrother, stepfather](https://apstylebook.com/ap_stylebook/stepbrother-stepfather)
+  * no hyphen
+* [street](https://apstylebook.com/ap_stylebook/street)
+  * abbr *St.* only with numbered address
+* [suit, suite](https://apstylebook.com/ap_stylebook/suit-suite)
+  * *suit* = clothes, cards, *lawsuit*
+  * *suite* = music, rooms, furniture
+* [superintendent](https://apstylebook.com/ap_stylebook/superintendent)
+  * don't abbr; capitalize as title
+* [Supreme Court of the United States](https://apstylebook.com/ap_stylebook/supreme-court-of-the-united-states)
+  * always capitalize if specific, with or without *U.S.*
+  * SCOTUS has justices not judges
+  * *chief justice*, *associate justice*
+    * if title: capitalize, shorten to *Justice* unless compelling reason not to
+
+
