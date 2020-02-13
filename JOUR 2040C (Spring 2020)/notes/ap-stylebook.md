@@ -1,6 +1,6 @@
 # AP Stylebook notes
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [XYZ](#xyz)
 
 ---
 
@@ -1206,7 +1206,7 @@
   * capitalize only as part of title or in ref to the *American Revolution*
 * [right of way, rights of way](https://apstylebook.com/ap_stylebook/right-of-way-rights-of-way)
 * [river](https://apstylebook.com/ap_stylebook/river)
-  * capitalize  as part of proper name
+  * capitalize as part of proper name
 * [room numbers](https://apstylebook.com/ap_stylebook/room-numbers)
   * capitalize with a figure (*Room 2*)
 * RSS
@@ -1259,7 +1259,7 @@
   * capitalize
 * [space shuttle](https://apstylebook.com/ap_stylebook/space-shuttle)
   * lowercase *space shuttle* but capitalize names of shuttles (e.g. *space shuttle Discovery*)
-  * NASA used from 1981 to 2011
+  * NASA used 'em from 1981 to 2011
 * [species](https://apstylebook.com/ap_stylebook/species)
   * can be singular or plural, depending on usage
 * [Speaker](https://apstylebook.com/ap_stylebook/speaker)
@@ -1300,4 +1300,138 @@
   * *chief justice*, *associate justice*
     * if title: capitalize, shorten to *Justice* unless compelling reason not to
 
+---
 
+***2020-02-13***
+
+## T
+
+* [Taliban](https://apstylebook.com/ap_stylebook/taliban)
+  * they're still around
+* [team](https://apstylebook.com/ap_stylebook/team)
+  * *team* is singular, but the name of a team is plural
+  * e.g. *The team is winning. The Orlando Magic are winning.*
+* [teen, teenager](https://apstylebook.com/ap_stylebook/teen-teenager)
+  * also *teenage*, but *teen-aged* isn't a word
+* [television program titles](https://apstylebook.com/ap_stylebook/teen-teenager)
+  * put quotes around names (not italics/underlining)
+* [temperatures](https://apstylebook.com/ap_stylebook/temperatures)
+  * always use figures except *zero*
+  * use *minus 10* (not *-10*)
+* Ten Commandments
+  * capitalize, use *Ten* not *10*
+* [theater](https://apstylebook.com/ap_stylebook/theater)
+  * use *theater* not *theatre* (except in place name)
+* [theft](burglary, larceny, robbery, theft)
+  * see *burglary, larceny, robbery, theft*
+* [their, there, they're](https://apstylebook.com/ap_stylebook/their-there-they-re)
+  * *their* = belonging to them
+  * *there* = that place
+  * *they're* = *they are*
+* [time element](https://apstylebook.com/ap_stylebook/time-element)
+  * see *dates*
+  * don't use *last Tuesday* or *next Tuesday*; wording should make it clear which one
+* [times](https://apstylebook.com/ap_stylebook/times)
+  * use figures except *noon* and *midnight*
+  * *o'clock* acceptable but generally only used in columns
+* [titles](https://apstylebook.com/ap_stylebook/titles)
+  * generally: titles before names capitalized, titles after names lowercase
+  * non-formal occupational titles are lowercase
+  * always abbr *Dr.*, *Gov.*, *Lt. Gov.*, *Rep.*, *Sen.* and some mil titles before name
+* [today, tonight](https://apstylebook.com/ap_stylebook/today-tonight)
+  * only in direct quotes (some outlets defy this rule)
+* [total, totaled, totaling](https://apstylebook.com/ap_stylebook/total-totaled-totaling)
+  * generally, *a total of* is redundant
+    * may be used to avoid figure at beginning of sentence
+* [troop, troops, troupe](https://apstylebook.com/ap_stylebook/troop-troops-troupe)
+  * *troop* = military
+  * *troupe* = theatre
+* [T-shirt](https://apstylebook.com/ap_stylebook/t-shirt-2)
+  * note spelling/caps
+
+## U
+
+* [U.N.](https://apstylebook.com/ap_stylebook/u-n)
+  * use periods (except in headlines)
+  * can be used as noun or adj
+* [underway](https://apstylebook.com/ap_stylebook/underway)
+  * one word
+* [union names](https://apstylebook.com/ap_stylebook/union-names-2)
+  * big list of names i'm not gonna copy
+* [unique](https://apstylebook.com/ap_stylebook/unique)
+  * means "one of a kind"
+  * don't use *most unique*, *rather unique*, *very unique*
+* [URL](https://apstylebook.com/ap_stylebook/url)
+* [U.S. Court of Appeals](https://apstylebook.com/ap_stylebook/u-s-court-of-appeals)
+  * we're in the 6th Circuit
+  * first ref: *U.S. Court of Appeals* or *8th U.S. Circuit Court of Appeals* or *U.S. Court of Appeals for the 8th Circuit*
+  * second ref: *the Court of Appeals, the 2nd Circuit, the appeals court, the appellate court(s), the circuit court(s), the court*
+* [U.S. Postal Service](https://apstylebook.com/ap_stylebook/u-s-postal-service)
+
+## V
+
+* [Vaseline](https://apstylebook.com/ap_stylebook/vaseline)
+  * trademark for *petroleum jelly*
+* [versus](https://apstylebook.com/ap_stylebook/versus)
+  * for ordinary speech, spell out *versus*
+  * in short expressions, *vs.* is also okay
+  * for court cases, *v.*
+* [vice president](https://apstylebook.com/ap_stylebook/vice-president)
+  * only capitalize before a name
+* [vote tabulations](https://apstylebook.com/ap_stylebook/vote-tabulations)
+  * for less than 1k votes on each side, use a hyphen (e.g. *a 123-321 vote*)
+  * above 1k votes, add *to* (e.g. *a 1,234 to 4,321 vote*)
+
+## W
+
+* [Washington](https://apstylebook.com/ap_stylebook/washington)
+  * abbr *Wash.* in datelines only
+  * for the capital, use *WASHINGTON* in datelines and *Washington* in story
+    * only use *Washington, D.C.,* if it'd be confusing otherwise
+* [weapons](https://apstylebook.com/ap_stylebook/weapons)
+  * *an AK-47 assault rifle*
+  * caliber is measure of barrel
+    * *a 9 mm pistol*, *a .22-caliber rifle*
+  * *revolver* = a handgun, diff from pistol because it has revolving chambers
+  * shotguns: caliber measured as gauge (*a 12-gauge shotgun*)
+* [weather terms](https://apstylebook.com/ap_stylebook/weather-terms)
+  * *flood*
+    * says how high water is, where it's expected to crest
+    * give flood stage for comparison
+  * *hurricane*
+    * categories 1–5 on wind scale
+  * *tornado warning* = tornado exists
+  * *tornado watch* = conditions might lead to tornado
+  * *tsunami*
+* [web](https://apstylebook.com/ap_stylebook/web-2)
+  * lowercase
+* [website](https://apstylebook.com/ap_stylebook/website-2)
+  * lowercase
+* [weeklong, weekslong](https://apstylebook.com/ap_stylebook/weeklong-weekslong)
+  * one word as adj
+* [weights](https://apstylebook.com/ap_stylebook/weights)
+  * use figures; don't abbr units
+  * *The 9-pound, 7-ounce baby weighed 9 pounds, 7 ounces.*
+* [who's, whose](https://apstylebook.com/ap_stylebook/who-s-whose)
+  * *who's* = *who is*
+  * *whose* = possessive
+* [who, whom](https://apstylebook.com/ap_stylebook/who-whom)
+  * *who* = subjective case
+  * *whom* = objective case
+* [widow, widower](https://apstylebook.com/ap_stylebook/widow-widower)
+  * in *widow of the late X*, the word *late* is redundant
+  * *is survived by*
+* [Wikipedia](https://apstylebook.com/ap_stylebook/wikipedia-2)
+
+## XYZ
+
+* [Xerox](https://apstylebook.com/ap_stylebook/xerox)
+  * trademark for *photocopy*
+* [XML](https://apstylebook.com/ap_stylebook/xml)
+* [years](https://apstylebook.com/ap_stylebook/years)
+  * commas on both side of year in dates
+* [yesterday](https://apstylebook.com/ap_stylebook/yesterday)
+  * only in quotes
+* [youth](https://apstylebook.com/ap_stylebook/youth)
+  * applicable to boy/girl from ages 13 to 18
+  * after 18 use *man* or *woman*
