@@ -1049,6 +1049,9 @@
   * one word
 * [owner](https://apstylebook.com/ap_stylebook/owner)
   * not a formal title, not capitalized
+
+## P
+
 * [pacemaker](https://apstylebook.com/ap_stylebook/pacemaker)
   * formerly a trademark but now a generic term
 * [page numbers](https://apstylebook.com/ap_stylebook/page-numbers)
