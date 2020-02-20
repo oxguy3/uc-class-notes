@@ -1325,7 +1325,7 @@
   * capitalize, use *Ten* not *10*
 * [theater](https://apstylebook.com/ap_stylebook/theater)
   * use *theater* not *theatre* (except in place name)
-* [theft](burglary, larceny, robbery, theft)
+* [theft](https://apstylebook.com/ap_stylebook/theft)
   * see *burglary, larceny, robbery, theft*
 * [their, there, they're](https://apstylebook.com/ap_stylebook/their-there-they-re)
   * *their* = belonging to them
